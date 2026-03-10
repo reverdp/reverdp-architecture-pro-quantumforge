@@ -1,0 +1,11 @@
+built_at_utc=2026-03-05T17:15:27Z
+embedding_model=BAAI/bge-base-en-v1.5
+embedding_dim=768
+vector_db=ChromaDB
+collection_name=quantumforge_kb
+chunks_total=1991
+files_total=29
+embed_batch_size=32
+elapsed_sec=2607.03
+chunks_source_file=D:\yandex_p\architecture-pro-quantumforge\bot\artifacts\chunks.jsonl
+chroma_path=D:\yandex_p\architecture-pro-quantumforge\bot\artifacts\chroma_db

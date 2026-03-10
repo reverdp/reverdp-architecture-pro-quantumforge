@@ -1,0 +1,10 @@
+{"id":"ok_01","query":"Who is Nocteris?","expect_has_answer":true,"must_contain_keywords":["born"]}
+{"id":"ok_03","query":"List of several video games of Starfall","expect_has_answer":true,"must_contain_keywords":["starfall"]}
+{"id":"ok_01","query":"When was born Elvara Astrel Organa Kaelis?","expect_has_answer":true,"must_contain_keywords":["born"]}
+{"id":"ok_01","query":"Tell me about deflector screens","expect_has_answer":true,"must_contain_keywords":["shields"]}
+{"id":"ok_01","query":"What is a Hemergon Incident?","expect_has_answer":true,"must_contain_keywords":["spy"]}
+{"id":"ok_01","query":"Which studio developed Starfall Warcrest?","expect_has_answer":true,"must_contain_keywords":["Illusions"]}
+{"id":"gap_01","query":"Tell me about the technology of the Great Hammer of Starfall.","expect_has_answer":false}
+{"id":"gap_03","query":"Who is Xarn Velgor?","expect_has_answer":false}
+{"id":"gap_04","query":"Tell me about the Starfall game: Avantol?","expect_has_answer":false}
+{"id":"gap_05","query":"Where was Klikto during The Uniforge event?","expect_has_answer":false}

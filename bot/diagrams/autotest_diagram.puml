@@ -1,0 +1,33 @@
+@startuml
+title RAG Evaluation
+
+participant "evaluate.py" as EVAL
+participant "golden_questions.jsonl" as GOLD <<file>>
+participant "Embedder\n(bge-base-en-v1.5)" as EMB
+participant "ChromaDB" as VDB <<database>>
+participant "Ollama\n(qwen2.5:7b)" as LLM
+participant "eval_results.jsonl" as OUT <<file>>
+
+EVAL -> GOLD: Load questions
+
+loop for each question
+  EVAL -> EMB: Encode query
+  EMB --> EVAL: query embedding
+
+  EVAL -> VDB: Retrieve top-k chunks
+  VDB --> EVAL: chunks + distances
+
+  alt Low relevance / no chunks
+    EVAL -> EVAL: Answer = "I don't know"
+  else Relevant chunks
+    EVAL -> LLM: Generate answer using chunks
+    LLM --> EVAL: answer
+  end
+
+  EVAL -> EVAL: Compare with expected answer
+  EVAL -> OUT: Write result
+end
+
+EVAL -> EVAL: Print summary
+
+@enduml

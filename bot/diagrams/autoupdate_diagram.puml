@@ -1,0 +1,26 @@
+@startuml
+title Daily Update (source_docs -> knowledge_base -> index)
+
+control "Windows Task Scheduler\n(daily 06:00)" as scheduler
+
+folder "source_docs/" as sd
+folder "knowledge_base/" as kb
+
+component "update_index.py" as script
+database "source_state.json" as state
+file "update_log.jsonl" as logs
+database "ChromaDB\artifacts/chroma_db" as chroma
+component "BGE embeddings\nbge-base-en-v1.5" as emb
+
+scheduler --> script : 1. run script
+script --> sd : 2. scan new/changed
+script --> state : 3. read hashes
+script --> kb : 4. copy file\n(preserve folders)
+script --> kb : 5. read copied docs
+script --> script : 6. chunking 100–300 words
+script --> emb : 7. encode chunks
+script --> chroma : 8. add/upsert vectors
+script --> state : 9. write hashes
+script --> logs : 10. write run log
+
+@enduml
