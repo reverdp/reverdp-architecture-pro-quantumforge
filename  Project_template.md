@@ -172,7 +172,7 @@ text_preview: In the aftermath of the Resistance's defeat on Saltor , when Elvar
 [scheduler.ps1](bot/scheduler.ps1)
 
 #### Диаграмма обновления базы знаний
-[Диаграмма](bot/diagrams/autoupdate_diagram.puml)
+![Диаграмма](bot/diagrams/autoupdate_diagram-Daily_Update_index_.png)
 
 ### Аналитика покрытия и качества базы знаний
 
@@ -203,4 +203,4 @@ text_preview: In the aftermath of the Resistance's defeat on Saltor , when Elvar
   * Улучшение алгоритам "Я не знаю" и метрик успеха
 
 #### Диаграмма автоматического тестирования
-[Диаграмма](bot/diagrams/autotest_diagram.puml)
+![autotest_diagram-RAG_Evaluation.png](bot/diagrams/autotest_diagram-RAG_Evaluation.png)
