@@ -1,0 +1,24 @@
+{
+  "files": {
+    "D:\\yandex_p\\architecture-pro-quantumforge\\bot\\source_docs\\events\\pass.txt": {
+      "hash": "b8e970ed4ec505f40403cd0a5f8e23281c526eb05bbdf85ee44f0346b3e788e9",
+      "mtime": 1772942778.2634418,
+      "kb_path": "D:\\yandex_p\\architecture-pro-quantumforge\\bot\\knowledge_base\\events\\pass.txt",
+      "chunk_count": 1,
+      "updated_at": "2026-03-08T04:37:55Z",
+      "last_chunk_id_sample": [
+        "events/pass.txt:b8e970ed4ec505f40403cd0a5f8e23281c526eb05bbdf85ee44f0346b3e788e9:0"
+      ]
+    },
+    "D:\\yandex_p\\architecture-pro-quantumforge\\bot\\source_docs\\events\\Hemergon_Incident.txt": {
+      "hash": "d06c78797a4a4ba881cebf2894a6a6bba1c2b1e1d3158f193e9a509d38d0a629",
+      "mtime": 1772947113.9167705,
+      "kb_path": "D:\\yandex_p\\architecture-pro-quantumforge\\bot\\knowledge_base\\events\\Hemergon_Incident.txt",
+      "chunk_count": 1,
+      "updated_at": "2026-03-08T05:22:32Z",
+      "last_chunk_id_sample": [
+        "events/Hemergon_Incident.txt:d06c78797a4a4ba881cebf2894a6a6bba1c2b1e1d3158f193e9a509d38d0a629:0"
+      ]
+    }
+  }
+}

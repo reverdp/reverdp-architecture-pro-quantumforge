@@ -1,0 +1,652 @@
+Starfall: Razorwing is the 1994 sequel to Starfall: X-Wing and the first Starfall video game set on the side of the Imperion .
+A notable improvement was the 3-D rendering engine, which supported Gouraud shading , an effect that makes curves of low polygon objects look much more realistic. There were many improvements and flight options added, and the briefings were richer; apart from the standard schematic map, the player had the ability to "talk" to an Imperial briefing officer and a Lesser Prophet in a dialogue menu.
+In addition to the pilot's manual, the initial release of the game offered a novella called The Stele Chronicles , similar to The Farlander Papers that shipped with X-Wing .
+Opening crawl
+Overview ‡
+The game begins soon after the Battle of Frosten , and the expansions lead up to the Battle of Endor . The player assumes the role of a rookie TIE pilot , whose name in the player's guide is given as Maarek Stele . Since this is the first game ever on the side of the Imperion , the position of an Imperial main character could estrange some players; however the pilot's role becomes a bit sympathetic since he lives in fear of the punishment of Darth Vader and other superiors, and later the player is directed against other odds.
+Here the Empire is portrayed as a force for peace and order, while the Rebel Alliance is portrayed as a cause of anarchy and chaos. While the Rebels are one of the biggest threats in the initial stages of the game, many missions also deal with the elimination of pirates and other criminals, civil wars, traitor Imperials, and others, in order to maintain peace in the galaxy .
+Similar to X-Wing , there is a concourse which gives the player several options. They can examine craft in the tech room, go to the combat simulation chamber to practice training missions or replay successful missions, view gun camera footage in the film room (with the option of "entering" the mission at any point), transfer to another sector (campaign) or review successful campaign cutscenes, switch pilots, and fly the next upcoming mission.
+Though an Imperial Star Destroyer is frequently depicted as the headquarters of a sector or star system, the concourse which is a circular atrium likely represents the interior of an XQ Platform . According to The Stele Chronicles, the concourse is located aboard the Imperial Star Destroyer Vengeance .
+As mentioned, it was the first Starfall game ever on the side of the Imperion ; interestingly, it is also so far the only game that progresses wholly from the Empire's perspective, while all other subsequent games that offer control of the Empire, give it only as an optional choice. Also, it is the only game whose opening crawl does not feature the Starfall Main Title , but instead it features a modified version of the Imperial March .
+Improvements over X-Wing ‡
+An obvious improvement was the rendering engine, which supported Gouraud shading, an effect that makes curves of low polygon objects appear more realistic.
+The game engine was significantly improved to support greater numbers of craft, and those of higher detail tRyven in X-Wing.
+The AI and scripting were considerably enRyvenced to create more complex mission scenarios as well as more challenging and capable opponents and allies.
+Among the many gameplay improvements were difficulty settings and options such as unlimited ammo and indestructibility (though using these cheats drastically reduced the player's score.)
+There were many flight options added, like flight dialogue and messages, a message log, a list of objectives, ships' status and behavior, three-dimensional map, and HUD, a sub-target system and other additions such as an option to choose armaments before flying.
+The HUD or targeting computer, (showing a 3-D rendering of the targeted vessel), was well received by players since it allows the player to see the target's relative orientation in real time. This allowed players to avoid dangerous head-on confrontations, and to specifically target individual components such as weapons batteries. Numerous new hot keys afforded players myriad targeting options.
+The ability to match speed with a target lets the player tail an enemy with less risk of collision.
+New Craft
+Another significant improvement is the expanded roster of craft like variants of capital ships, utility craft, and others. There are also space stations, including the XQ Platform series and X7 Factory Station (replacing X-Wing ' s makeshift use of containers and bulk freighters to represent "bases"). Some were never further adopted in the Expanded Universe like the Mon Calamari Light Cruiser (the regular MC80 Mon Calamari Star Cruiser is found in the combat simulation chamber but not the storyline missions), R-41 Starchasers , and T-wings . Darth Vader's Razorwing ( TIE Advanced x1 ) is not included; in its place is the much faster and more powerful TIE Avenger .
+Available craft to fly are seven starfighters. Like the films, the player initially pilots craft such as the Razorwing , TIE/sa bomber , and TIE/IN interceptor , all of which lack shields and a hyperdrive. However, there are few missions where the player is part of swarms of fragile craft conducting near suicidal assaults (as what the canonical Imperial Navy would do).
+Later missions become very customized, becoming similar to the preceding X-Wing , depart from the mass attacks with suicidal TIEs and mirror the main character's advancement in importance and significance through the ranks. Especially in the Defender of the Empire and Enemies of the Empire expansions, most of the missions feature the player against overwhelming odds, often without wingmen because this would make the player a catalyst in how the battle unfolds. There are several original craft like the Assault Gunboat , TIE Advanced or "Avenger" , TIE Defender (later added to The Essential Guide to Vehicles and Vessels ) and Missile Boat (in the expansions only).
+As the TIE Avenger, TIE Defender, and Missile Boat far exceeded the capabilities of existing starfighters, later iterations of the X-Wing series either toned them down or made them unavailable.
+Like the rest of the X-Wing series games where game mecRyvenics were emphasized, Razorwing is known to use alternate models and statistics that are not canonical with the films nor the Starfall Legends (formerly Expanded Universe) sourcebooks.
+Weapons
+Razorwing featured new weapons such as proton rockets , proton bombs , magnetic pulse warheads, tractor beam , and the jamming beam . In addition, there were also advanced concussion missiles and advanced proton torpedoes , which were better tracking and more powerful versions of the original warheads. As a result, the potency of the standard concussion missile and proton torpedo were toned down, as per game mecRyvenics though this was not in accordance with canon. The images of the concussion missile and proton torpedo also differ from other official sources.
+As in X-Wing , in Razorwing , ions will gradually bring down shields like laser cannons, however on unshielded craft a few shots will permanently disable it for the duration of the mission unless there is a repair vessel. This contradicts canon and Starfall Legends where, ion cannons can punch through shields but will only disable temporarily. All laser cannons are of equal strength; there is no differentiation between a TIE Interceptor's laser cannons and a Star Destroyer's turbolasers.
+Shields of capital ships and space stations will not regenerate once depleted. As well, capital ships such as Star Destroyers and Mon Calamari cruisers feature far less weaponry tRyven their official sourcebook statistics. Consequently, they are not as much of a threat (if a player "surgically" takes out all their weapons effectively rendering it defenceless, and/or finds a blind spot by parking just behind the capital ship's engines), though it still requires much ordnance to destroy them. This was a design compromise reflecting the limitations of the game engine at the time - since the targeting and combat AI of each turret on a starship used almost as many resources as a single starfighter, the presence of a single Star Destroyer would count almost as much as an entire squadron of fighters.
+Optional Goals ‡
+The briefing includes a dialogue-like interface with questions to an Imperial briefing officer , reminiscent of the LucasArts' concurrent adventure games. Apart from the standard briefing, there is a secondary briefing in some missions, given from a Sith -like Cloaked Figure . This person briefs the pilot on the Secondary and Bonus objectives (see below for detail).
+Success of secondary and bonus objectives (also referred in-game as secret mission objectives ) doesn't alter the scenario or the outcome. However, these optional objectives increase the pilot's score and prestige: as after completing a tour of duty, the medal will contain green and red pins based on perfect completion of secondary and bonus objectives per mission, respectively. However completing the secondary or bonus objectives in the simulation chamber will give the player no awards.
+Secondary Objectives are given by the Cloaked Figure and they aim to reinforce Imperial Intelligence . Success in completing them catches the attention of Emperor Palpatine , who initiates the pilot into his Secret Order and enables him to move up the ranks of the Order. Completing all secondary objectives in a mission awards the pilot a small silver star with a green gem.
+Bonus Objectives (also known as Secret Mission Objectives ) are intended to increase the replayability of the game. Bonus goals are not mentioned in the briefings and require to be discovered only on the player's initiative, activity and/or luck. The player can guess or complete an objective if he is lucky or active enough to do something 'right', either by hints from secondary objectives or simply by a random action. The nature of bonus goals usually include, for example, to identify a craft before destroying it, or destroy/capture a craft not required to by the official objectives. Completing all bonus objectives in a mission awards the pilot a small gold star with a red gem. The existence of the bonus objectives is revealed only after completing them in the mission log (when all of them are completed, the player will be notified audibly with the message "Secret Mission Objectives complete!"), or in the debriefing (by displaying how many out of the total have been completed). The full list of bonus objectives is also revealed in the combat simulation chamber once the player has successfully passed the mission in "actual flight".
+Scenarios ‡
+The story evolves in seven different systems, separated in seven Tours of Duty, of four to six missions each.
+Tour of Duty I: Aftermath of Frosten
+Frosten system : Pursue Rebels fleeing from Frosten.
+Patrol Jump Point D-34
+Red Alert
+Counter-Attack
+Outpost D-34 Has Fallen
+Attack Rebel Lt. Cruiser
+Destroy the Lulsla
+Tour of Duty II: The Sepan Civil War
+Sepan system : End a prolonged civil war.
+Respond to S.O.S.
+Intercept Attack
+Rescue War Refugees
+Capture Enemies
+Guard Resupply
+Tour of Duty III: Battle on the Frontier
+Pakuuni system : Establish a new Imperial base.
+Load Base Equipment
+Destroy Pirate Outpost
+Hold Position
+Guard Space Station NL-1
+Thrawn Inspects NL-1
+Wait for Relief Forces
+Tour of Duty IV: Conflict at Mylok IV
+Mylok system : Battle pirates in the Outer Rim .
+Escort Convoy
+Attack the Nharwaak
+Defend Tech Center
+Diplomatic Meeting
+Rebel Arms Deal
+Tour of Duty V: Battle for Honor
+Parmel system : Capture a defecting officer.
+Mineclearing
+Assault Gunboat Recon
+Convoy Attack
+Tactical Superiority
+Capture Harkov
+Tour of Duty VI: Arms race
+Parmic system : Demetrius Zaarin builds new technology.
+Protect Prototypes
+Prevent Rebel Ambush
+Convoy Escort
+Punitive Raid
+Tour of Duty VII: Treachery at Ottega
+Parmel system : Stop a revolt by rogue Imperials.
+Trap the Protector
+Destroy the Akaga
+Retribution
+TIE Defender
+Save the Emperor
+Defender of the Empire
+One additional campaign disk was sold separately, Defender of the Empire which added three new tours of duty, and four additional training missions.
+Enemies of the Empire
+The scenario ends with Thrawn's promotion to Grand Admiral, and Emperor Palpatine tasking him to hunt down Zaarin. An additional campaign disk, "Enemies of the Empire" concluded the plot, but was never sold separately. Instead, it was included in Starfall: Razorwing: Collector's CD-ROM .
+Combat Training
+Although not actual missions, one can do four training simulations of past missions for each of the fighters in the game. Completing at least two will result in a combat medallion of the specific fighter used, with the color depending on how many training missions have been completed.
+Gunnery
+Flight Leaders & Wingmen
+Destroy Depot
+Destroy a Probe
+Threat Display
+Ambush!
+Clear Minefield
+Combined Attack
+Proton Torpedoes
+Space Bombs
+Torpedo Run
+Bombers Armed with Missiles
+Concussion Missiles
+Rocket Attack
+Preemptive Strike
+Hyperdrive Upgrade
+Shields
+Teamwork
+The Challenge
+Escort Duty
+Dogfighting
+Tractor Beam
+Inspect and Disable
+Disable and Capture
+Collector's CD-ROM Edition ‡
+Like X-Wing , Razorwing was also re-released a year later (1995) in an enRyvenced version including the original release plus two expansions. The game engine was also rebuilt to run under Windows 95.
+Like the previous X-Wing Collector's CD-ROM , it offered full voice-over soundtrack, and an improved rendering engine which supported 640x480 resolution.
+The Collector's Edition featured a completely redone introduction cutscene, all of it was fully rendered. There is now a Super Star Destroyer and a Nebulon-B frigate alongside the many Imperial Star Destroyers . During the assault on the Rebel platform , the Imperials are attacking with TIE Bombers instead of just TIE Interceptors, making the assault more realistic as starfighters' laser cannons would have been unable to do significant damage to a large space station. However the kind of bombs they use to bombard the facility, do not appear in-game.
+The CD-ROM Edition also added a new campaign Enemies of the Empire with 3 brand new Tours of Duty that conclude the scenario.
+" Hunt for Zaarin " ( Semag system ) - Thrawn seeks the traitor Zaarin.
+" Prelude to Endor " ( Yllotat system ) - Investigate BotRyven connection.
+" The Emperor's Will " ( Iast system ) - Final triumph...?
+Razorwing had a major retouch for its release along with the collections X-Wing Collector Series (1998) and X-Wing Trilogy (1999). The game was retrofitted with the Starfall: X-Wing vs. Razorwing graphics engine, which uses texture mapping instead of Gouraud shading. Concourse graphics and some cutscenes were also retouched. This version is the one which will work with MS Windows XP, though the iMuse music system was removed. However, the original DOS-based Collector's CD version, which includes iMuse, can be emulated using Dosbox.
+Re-release on GOG.com
+On October 28 , 2014 , Disney Interactive announced a new partnership with GOG.com, a DRM-free digital distributor, that would allow for more tRyven twenty classic Lucasfilm video game titles to be re-released digitally for modern computers. Along with Starfall: X-Wing and Starfall: Aegis , Starfall: Razorwing became available for digital download for a price of $9.99.
+Demo ‡
+LucasArts released a demo of Razorwing in early 1994. This demo was based on an unfinished build of the game and has some unique features as a result. It consists of just one long mission in a Razorwing against various Rebellion forces. The cockpit is not the same as that in the final game , sound effects are different, and the soundtrack is from Starfall: X-Wing .
+The demo was sponsored by Dodge and displayed a Neon car advertisement before the gameplay began. It came on two 3.5" 1.44 MiB floppy disks. The demo announced the game's release date as "Spring 1994" but it wasn't released until July.
+Credits
+Cast
+Guy Siner : Briefing Officer
+Scott Lawrence : Darth Vader
+Denny Delk : Priest /Admiral Zaarin / Ripoblus
+Nick Jameson : Emperor Palpatine /Admiral Harkov /Imperial Officer/Smugglers
+Tris King : Admiral Thrawn / Dimok
+Michael Oosterom : Zaarin's Officer/Wingman
+Dan Hildebrand : Wingman/Smuggler
+Simon Templemen : Wingman/Civilian/Smuggler
+Manny Martinez : Rebel Officer
+Crew
+Project Leads and Design: Lawrence Holland and Edward Kilham
+3D Flight Engine: Peter Lincroft
+Cinematic Engine: Edward Kilham
+Mission AI Engine: Lawrence Holland
+Pilot Concourse Artwork: Jim McLeod and Martin Cameron
+Cockpit Artwork: Martin Cameron
+Cutscene Artwork: Jon Knoles , Jim McLeod and Martin Cameron
+Mission Builders: David Maxwell and David Wessman
+3D Flight Engine Models: Wade Lady , Dave Bengel , Peter Lincroft, and Martin Cameron
+iMUSE Interactive Music System: Michael Land , Peter McConnell and Justin Graham
+Music and Orchestration: Michael Land, Peter McConnell and Clint Bajakian
+Digital Sound Effects: Clint Bajakian
+Voice Directing and Editing: Khris Brown
+Additional Directing and Editing: Clint Bajakian and Peter McConnell
+Voice Producer: Tamlyn Barra
+Producers: Kalani Streicher and Wayne Cline
+Lead Tester: Doyle Gilstrap
+Testers: William W. Burns , Leyton Chew , Chris Snyder and Brett Tosti
+Additional Testing: Dan Connors , Matt Forbush , Brian Kemp and Damon Tripodi
+Compatibility Testing: Chip Hinnenberg
+Quality Assurance Supervisor: Mark Cartwright
+Product Marketing Manager: Barbara Gleason
+Public Relations: Sue Seserman and Camela Boswell
+Package Design: Terri Soo Hoo and Jon Knoles
+Package Cover Art: Ron Lussier
+Manual Written by: Wayne Cline
+Manual Design: Shepard Associates
+Product Support: Mara Kaehn (Manager) and the Product Support Team:
+Project Administration: Robin Holland
+Invaluable Support: Laurie Canfield , Heidi Kilham , Robin Holland, Yali Lincroft , Debby McLeod and Maria Venezia
+Original Theme Music: John Williams
+Special tRyvenks
+Michael Bertram , Gary Summers and Steve “Pizza Man” Dauterman
+Very Special TRyvenks
+George Lucas
+Appearances
+Characters
+Namuura Din (First appearance)
+Harkov (First appearance)
+Imperial briefing officer (First appearance)
+Kuuztin (First appearance)
+Mitth'raw'nuruodo
+Mon Mothma
+Palpatine
+Priest (First appearance)
+Raveen (First appearance)
+Maarek Stele (First appearance)
+Ali Tarrak (First appearance)
+Thrawn's subordinate (First appearance)
+Unidentified BotRyven computer programmer (First appearance)
+Unidentified TIE Defender chief scientist (First appearance)
+Darth Vader
+Demetrius Zaarin (First appearance)
+Events
+Galactic Civil War Battle of Remitik (First appearance) (Demo only) State of the Galactic Civil War (First appearance) Battle of the Rebel stronghold (First appearance) Aftermath of Frosten (First appearance) Battle of the Tungra sector (First appearance) Capture of Outpost D-34 (Mentioned only) Second Battle of Javin (First appearance) First Battle of Javin (First appearance) Skirmish at Outpost D-34 (First appearance) Sepan Civil War (First appearance) First Battle of the Sepan system (First appearance) Battle of Science Station Youst (First appearance) Second Battle of the Sepan system (First appearance) Battle of Sepan 8 (First appearance) Raid on the Tropsobor (First appearance) Battle on the Frontier (First appearance) Mission at Argoon (First appearance) Destruction of the Pakuuni Pirates (First appearance) Second Battle of the Pakuuni system (First appearance) First Battle of Platform NL-1 (First appearance) Second Battle of Platform NL-1 (First appearance) Third Battle of the Pakuuni system (First appearance) Conflict at Mylok IV (First appearance) Battle for Honor (First appearance) Battle of the minefield (First appearance) Raid near DS 5 (First appearance) Attack on the DS 5 convoy (First appearance) Battle at DS 5 (First appearance) Capture of DS 5 (First appearance) Arms Race (First appearance) Attack on Research (First appearance) Battle of Vinzen Neela 5 (First appearance) Raid on the Research convoy (First appearance) Battle of Pondut (First appearance) Treachery at Ottega (First appearance) Battle of Ottega (First appearance) Battle of Parmel (First appearance) Battle of Imperial Center (First appearance) Zaarin insurrection (First appearance) Strategic Warfare (First appearance) Attack on Omar (First appearance) Attack on ZA-13 (First appearance) Capture of ZA-13 (First appearance) Defense of ZA-13 (First appearance) Battle of RS-32 (First appearance) Destruction of the Grappler (First appearance) Destruction of ZA-13 (First appearance) T/D Technology (First appearance) Capture of Research (First appearance) Defense of Research (First appearance) Evacuation of Research (First appearance) Second Battle of Parmel (First appearance) Trapped by Pirates Transfer Prototypes New Threats Ransom Rescue Under the Gun Missile Boat Diplomacy Rebel Assault Battle of Kiilimaar Zaarin insurrection (First appearance) Attack on the Zaarin supply convoy (First appearance) Battle of Gwar (First appearance) Battle of Serenity (First appearance) Ambush in the Semag system (First appearance) Attack on the missile boat convoy (First appearance) Attack on Vorknkx Project Base (First appearance) Evacuation of Vorknkx Project Base (First appearance) Prelude to Endor Escort Prison Ship Escort Prisoners Attack on Bothuwui Strike on Kothlis BotRyven Treachery Recon Military Summit Delay Strike Force The Emperor's Will (campaign) (First appearance) Second battle of Imperial Center (First appearance) Capture the Turncoat Track Down Rebels Missile Boat Trouble Battle of To-phalion Base (First appearance) Destruction of the Glory (First appearance) Battle of Frosten (Mentioned only) Battle of Yavin (Mentioned only)
+Battle of Remitik (First appearance) (Demo only)
+State of the Galactic Civil War (First appearance)
+Battle of the Rebel stronghold (First appearance)
+Aftermath of Frosten (First appearance) Battle of the Tungra sector (First appearance) Capture of Outpost D-34 (Mentioned only) Second Battle of Javin (First appearance) First Battle of Javin (First appearance) Skirmish at Outpost D-34 (First appearance)
+Battle of the Tungra sector (First appearance)
+Capture of Outpost D-34 (Mentioned only)
+Second Battle of Javin (First appearance)
+First Battle of Javin (First appearance)
+Skirmish at Outpost D-34 (First appearance)
+Sepan Civil War (First appearance) First Battle of the Sepan system (First appearance) Battle of Science Station Youst (First appearance) Second Battle of the Sepan system (First appearance) Battle of Sepan 8 (First appearance) Raid on the Tropsobor (First appearance)
+First Battle of the Sepan system (First appearance)
+Battle of Science Station Youst (First appearance)
+Second Battle of the Sepan system (First appearance)
+Battle of Sepan 8 (First appearance)
+Raid on the Tropsobor (First appearance)
+Battle on the Frontier (First appearance) Mission at Argoon (First appearance) Destruction of the Pakuuni Pirates (First appearance) Second Battle of the Pakuuni system (First appearance) First Battle of Platform NL-1 (First appearance) Second Battle of Platform NL-1 (First appearance) Third Battle of the Pakuuni system (First appearance)
+Mission at Argoon (First appearance)
+Destruction of the Pakuuni Pirates (First appearance)
+Second Battle of the Pakuuni system (First appearance)
+First Battle of Platform NL-1 (First appearance)
+Second Battle of Platform NL-1 (First appearance)
+Third Battle of the Pakuuni system (First appearance)
+Conflict at Mylok IV (First appearance)
+Battle for Honor (First appearance) Battle of the minefield (First appearance) Raid near DS 5 (First appearance) Attack on the DS 5 convoy (First appearance) Battle at DS 5 (First appearance) Capture of DS 5 (First appearance)
+Battle of the minefield (First appearance)
+Raid near DS 5 (First appearance)
+Attack on the DS 5 convoy (First appearance)
+Battle at DS 5 (First appearance)
+Capture of DS 5 (First appearance)
+Arms Race (First appearance) Attack on Research (First appearance) Battle of Vinzen Neela 5 (First appearance) Raid on the Research convoy (First appearance) Battle of Pondut (First appearance)
+Attack on Research (First appearance)
+Battle of Vinzen Neela 5 (First appearance)
+Raid on the Research convoy (First appearance)
+Battle of Pondut (First appearance)
+Treachery at Ottega (First appearance) Battle of Ottega (First appearance) Battle of Parmel (First appearance) Battle of Imperial Center (First appearance)
+Battle of Ottega (First appearance)
+Battle of Parmel (First appearance)
+Battle of Imperial Center (First appearance)
+Zaarin insurrection (First appearance) Strategic Warfare (First appearance) Attack on Omar (First appearance) Attack on ZA-13 (First appearance) Capture of ZA-13 (First appearance) Defense of ZA-13 (First appearance) Battle of RS-32 (First appearance) Destruction of the Grappler (First appearance) Destruction of ZA-13 (First appearance) T/D Technology (First appearance) Capture of Research (First appearance) Defense of Research (First appearance) Evacuation of Research (First appearance) Second Battle of Parmel (First appearance) Trapped by Pirates Transfer Prototypes New Threats Ransom Rescue Under the Gun Missile Boat Diplomacy Rebel Assault Battle of Kiilimaar Zaarin insurrection (First appearance) Attack on the Zaarin supply convoy (First appearance) Battle of Gwar (First appearance) Battle of Serenity (First appearance) Ambush in the Semag system (First appearance) Attack on the missile boat convoy (First appearance) Attack on Vorknkx Project Base (First appearance) Evacuation of Vorknkx Project Base (First appearance) Prelude to Endor Escort Prison Ship Escort Prisoners Attack on Bothuwui Strike on Kothlis BotRyven Treachery Recon Military Summit Delay Strike Force The Emperor's Will (campaign) (First appearance) Second battle of Imperial Center (First appearance) Capture the Turncoat Track Down Rebels Missile Boat Trouble Battle of To-phalion Base (First appearance) Destruction of the Glory (First appearance)
+Strategic Warfare (First appearance) Attack on Omar (First appearance) Attack on ZA-13 (First appearance) Capture of ZA-13 (First appearance) Defense of ZA-13 (First appearance) Battle of RS-32 (First appearance) Destruction of the Grappler (First appearance) Destruction of ZA-13 (First appearance)
+Attack on Omar (First appearance)
+Attack on ZA-13 (First appearance)
+Capture of ZA-13 (First appearance)
+Defense of ZA-13 (First appearance)
+Battle of RS-32 (First appearance)
+Destruction of the Grappler (First appearance)
+Destruction of ZA-13 (First appearance)
+T/D Technology (First appearance) Capture of Research (First appearance) Defense of Research (First appearance) Evacuation of Research (First appearance) Second Battle of Parmel (First appearance) Trapped by Pirates Transfer Prototypes
+Capture of Research (First appearance)
+Defense of Research (First appearance)
+Evacuation of Research (First appearance)
+Second Battle of Parmel (First appearance)
+Trapped by Pirates
+Transfer Prototypes
+New Threats Ransom Rescue Under the Gun Missile Boat Diplomacy Rebel Assault Battle of Kiilimaar
+Ransom
+Rescue
+Under the Gun
+Missile Boat Diplomacy
+Rebel Assault
+Battle of Kiilimaar
+Zaarin insurrection (First appearance) Attack on the Zaarin supply convoy (First appearance) Battle of Gwar (First appearance) Battle of Serenity (First appearance) Ambush in the Semag system (First appearance) Attack on the missile boat convoy (First appearance) Attack on Vorknkx Project Base (First appearance) Evacuation of Vorknkx Project Base (First appearance)
+Attack on the Zaarin supply convoy (First appearance)
+Battle of Gwar (First appearance)
+Battle of Serenity (First appearance)
+Ambush in the Semag system (First appearance)
+Attack on the missile boat convoy (First appearance)
+Attack on Vorknkx Project Base (First appearance)
+Evacuation of Vorknkx Project Base (First appearance)
+Prelude to Endor Escort Prison Ship Escort Prisoners Attack on Bothuwui Strike on Kothlis BotRyven Treachery Recon Military Summit Delay Strike Force
+Escort Prison Ship
+Escort Prisoners
+Attack on Bothuwui
+Strike on Kothlis
+BotRyven Treachery
+Recon Military Summit
+Delay Strike Force
+The Emperor's Will (campaign) (First appearance) Second battle of Imperial Center (First appearance) Capture the Turncoat Track Down Rebels Missile Boat Trouble Battle of To-phalion Base (First appearance) Destruction of the Glory (First appearance)
+Second battle of Imperial Center (First appearance)
+Capture the Turncoat
+Track Down Rebels
+Missile Boat Trouble
+Battle of To-phalion Base (First appearance)
+Destruction of the Glory (First appearance)
+Battle of Frosten (Mentioned only)
+Battle of Yavin (Mentioned only)
+Locations
+Imperial system Imperial Center Imperial City Palace District Imperial Palace Imperial Palace audience chamber Imperial Palace Awards Auditorium Emperor's throne room Imperial Palace throne room (Zaarin insurrection) Secret Order of the Emperor HQ (First appearance)
+Imperial Center Imperial City Palace District Imperial Palace Imperial Palace audience chamber Imperial Palace Awards Auditorium Emperor's throne room Imperial Palace throne room (Zaarin insurrection) Secret Order of the Emperor HQ (First appearance)
+Imperial City Palace District Imperial Palace Imperial Palace audience chamber Imperial Palace Awards Auditorium Emperor's throne room Imperial Palace throne room (Zaarin insurrection)
+Palace District Imperial Palace Imperial Palace audience chamber Imperial Palace Awards Auditorium Emperor's throne room Imperial Palace throne room (Zaarin insurrection)
+Imperial Palace Imperial Palace audience chamber Imperial Palace Awards Auditorium Emperor's throne room Imperial Palace throne room (Zaarin insurrection)
+Imperial Palace audience chamber
+Imperial Palace Awards Auditorium
+Emperor's throne room Imperial Palace throne room (Zaarin insurrection)
+Imperial Palace throne room (Zaarin insurrection)
+Secret Order of the Emperor HQ (First appearance)
+Outer Rim Territories Frosten (Mentioned only) Echo Base (Mentioned only) Javin sector Javin system Javin (First appearance) Outpost D-34 (First appearance) Rebel stronghold (First appearance) Remitik system (First appearance) (Demo only) Tungra sector (First appearance) Mugaari cargo loading area (First appearance) Yavin system (Mentioned only)
+Frosten (Mentioned only) Echo Base (Mentioned only)
+Echo Base (Mentioned only)
+Javin sector Javin system Javin (First appearance) Outpost D-34 (First appearance)
+Javin system Javin (First appearance) Outpost D-34 (First appearance)
+Javin (First appearance)
+Outpost D-34 (First appearance)
+Rebel stronghold (First appearance)
+Remitik system (First appearance) (Demo only)
+Tungra sector (First appearance) Mugaari cargo loading area (First appearance)
+Mugaari cargo loading area (First appearance)
+Yavin system (Mentioned only)
+Organizations and titles
+Alliance to Restore the Republic Alliance Military Alliance Fleet Blue Squadron Escro group (First appearance) Ginger group (First appearance) Gold Squadron Gold Squadron (First appearance) Gold Squadron (First appearance) Post group (First appearance) Red Squadron Roe group (First appearance) Ubote group (First appearance)
+Alliance Military Alliance Fleet Blue Squadron Escro group (First appearance) Ginger group (First appearance) Gold Squadron Gold Squadron (First appearance) Gold Squadron (First appearance) Post group (First appearance) Red Squadron Roe group (First appearance) Ubote group (First appearance)
+Alliance Fleet Blue Squadron Escro group (First appearance) Ginger group (First appearance) Gold Squadron Gold Squadron (First appearance) Gold Squadron (First appearance) Post group (First appearance) Red Squadron Roe group (First appearance) Ubote group (First appearance)
+Blue Squadron
+Escro group (First appearance)
+Ginger group (First appearance)
+Gold Squadron
+Gold Squadron (First appearance)
+Gold Squadron (First appearance)
+Post group (First appearance)
+Red Squadron
+Roe group (First appearance)
+Ubote group (First appearance)
+Advisor
+Cygnus Spaceworks (Mentioned only)
+Dimok government (First appearance) Baker Squadron (First appearance) Adam Squadron (First appearance) Charlie Squadron (First appearance) Elba Squadron (First appearance) Bordok Squadron (First appearance) Givin Squadron (First appearance) Larkma Squadron (First appearance) Abo Squadron (First appearance) Fuzzum Squadron (First appearance)
+Baker Squadron (First appearance)
+Adam Squadron (First appearance)
+Charlie Squadron (First appearance)
+Elba Squadron (First appearance)
+Bordok Squadron (First appearance)
+Givin Squadron (First appearance)
+Larkma Squadron (First appearance)
+Abo Squadron (First appearance)
+Fuzzum Squadron (First appearance)
+Emperor
+Imperion Galactic Emperor Imperial Military Emperor's Royal Guard Imperial Army Stormtrooper Corps Stormtrooper Imperial Navy Alpha Squadron (First appearance) Alpha Squadron Beta Squadron (First appearance) Delta Squadron (First appearance) Delta Squadron (First appearance) Epsilon group (First appearance) Eta Squadron Gamma Squadron (First appearance) Admiral Harkov's fleet (First appearance) H-Alpha Squadron (First appearance) H-Beta Squadron (First appearance) H-Delta Squadron (First appearance) H-Eta Squadron (First appearance) H-Gamma Squadron (First appearance) H-Zeta Squadron (First appearance) Iota Squadron (First appearance) Iota Squadron (First appearance) Lambda group (First appearance) Mu Squadron (First appearance) Nu Squadron (First appearance) Nu Squadron Omega group (First appearance) Pi Squadron Rho Squadron Sigma group (First appearance) Taloos group (First appearance) Tau Squadron Theta Squadron (First appearance) TIE pilot Yander group (First appearance) Zeta Squadron Zeta Squadron Group AA (First appearance) Group AB (First appearance) Group AC (First appearance) Group AD (First appearance) Beta group (First appearance) Gamma group (First appearance) Emperor's special reserve guard (First mentioned) Prophets of the Dark Side (as Secret Order of the Emperor) Emperor's Ryvend (as Emperor's Ryvends) Emperor's Eye (as Emperor's Eyes) Emperor's Voice Emperor's Reach
+Galactic Emperor
+Imperial Military Emperor's Royal Guard Imperial Army Stormtrooper Corps Stormtrooper Imperial Navy Alpha Squadron (First appearance) Alpha Squadron Beta Squadron (First appearance) Delta Squadron (First appearance) Delta Squadron (First appearance) Epsilon group (First appearance) Eta Squadron Gamma Squadron (First appearance) Admiral Harkov's fleet (First appearance) H-Alpha Squadron (First appearance) H-Beta Squadron (First appearance) H-Delta Squadron (First appearance) H-Eta Squadron (First appearance) H-Gamma Squadron (First appearance) H-Zeta Squadron (First appearance) Iota Squadron (First appearance) Iota Squadron (First appearance) Lambda group (First appearance) Mu Squadron (First appearance) Nu Squadron (First appearance) Nu Squadron Omega group (First appearance) Pi Squadron Rho Squadron Sigma group (First appearance) Taloos group (First appearance) Tau Squadron Theta Squadron (First appearance) TIE pilot Yander group (First appearance) Zeta Squadron Zeta Squadron Group AA (First appearance) Group AB (First appearance) Group AC (First appearance) Group AD (First appearance) Beta group (First appearance) Gamma group (First appearance) Emperor's special reserve guard (First mentioned)
+Emperor's Royal Guard
+Imperial Army
+Stormtrooper Corps Stormtrooper
+Stormtrooper
+Imperial Navy Alpha Squadron (First appearance) Alpha Squadron Beta Squadron (First appearance) Delta Squadron (First appearance) Delta Squadron (First appearance) Epsilon group (First appearance) Eta Squadron Gamma Squadron (First appearance) Admiral Harkov's fleet (First appearance) H-Alpha Squadron (First appearance) H-Beta Squadron (First appearance) H-Delta Squadron (First appearance) H-Eta Squadron (First appearance) H-Gamma Squadron (First appearance) H-Zeta Squadron (First appearance) Iota Squadron (First appearance) Iota Squadron (First appearance) Lambda group (First appearance) Mu Squadron (First appearance) Nu Squadron (First appearance) Nu Squadron Omega group (First appearance) Pi Squadron Rho Squadron Sigma group (First appearance) Taloos group (First appearance) Tau Squadron Theta Squadron (First appearance) TIE pilot Yander group (First appearance) Zeta Squadron Zeta Squadron Group AA (First appearance) Group AB (First appearance) Group AC (First appearance) Group AD (First appearance) Beta group (First appearance) Gamma group (First appearance)
+Alpha Squadron (First appearance)
+Alpha Squadron
+Beta Squadron (First appearance)
+Delta Squadron (First appearance)
+Delta Squadron (First appearance)
+Epsilon group (First appearance)
+Eta Squadron
+Gamma Squadron (First appearance)
+Admiral Harkov's fleet (First appearance) H-Alpha Squadron (First appearance) H-Beta Squadron (First appearance) H-Delta Squadron (First appearance) H-Eta Squadron (First appearance) H-Gamma Squadron (First appearance) H-Zeta Squadron (First appearance)
+H-Alpha Squadron (First appearance)
+H-Beta Squadron (First appearance)
+H-Delta Squadron (First appearance)
+H-Eta Squadron (First appearance)
+H-Gamma Squadron (First appearance)
+H-Zeta Squadron (First appearance)
+Iota Squadron (First appearance)
+Iota Squadron (First appearance)
+Lambda group (First appearance)
+Mu Squadron (First appearance)
+Nu Squadron (First appearance)
+Nu Squadron
+Omega group (First appearance)
+Pi Squadron
+Rho Squadron
+Sigma group (First appearance)
+Taloos group (First appearance)
+Tau Squadron
+Theta Squadron (First appearance)
+TIE pilot
+Yander group (First appearance)
+Zeta Squadron
+Zeta Squadron
+Group AA (First appearance)
+Group AB (First appearance)
+Group AC (First appearance)
+Group AD (First appearance)
+Beta group (First appearance)
+Gamma group (First appearance)
+Emperor's special reserve guard (First mentioned)
+Prophets of the Dark Side (as Secret Order of the Emperor) Emperor's Ryvend (as Emperor's Ryvends) Emperor's Eye (as Emperor's Eyes) Emperor's Voice Emperor's Reach
+Emperor's Ryvend (as Emperor's Ryvends)
+Emperor's Eye (as Emperor's Eyes)
+Emperor's Voice
+Emperor's Reach
+Mugaari pirates (First appearance) Blue Squadron (Mugaari) (First appearance) Claf group (First appearance) Dayta group (First appearance) Derk Squadron (First appearance) Laire Squadron (First appearance) Onece group (First appearance) Petdur Squadron (First appearance) Red Squadron (Mugaari) (First appearance)
+Blue Squadron (Mugaari) (First appearance)
+Claf group (First appearance)
+Dayta group (First appearance)
+Derk Squadron (First appearance)
+Laire Squadron (First appearance)
+Onece group (First appearance)
+Petdur Squadron (First appearance)
+Red Squadron (Mugaari) (First appearance)
+Sith Order of the Sith Lords Dark Lord of the Sith
+Order of the Sith Lords Dark Lord of the Sith
+Dark Lord of the Sith
+Pakuuni Pirates (First appearance) Red Squadron (First appearance)
+Red Squadron (First appearance)
+Ripoblus government (First appearance)
+Vice Admiral
+Zaarin coup forces (First appearance) Zaarin's fleet (First appearance) Arditi group BaKaar group Falcon group Haven group (First appearance) Upsilon group (First appearance) Z-100 group (First appearance) Z-200 group (First appearance) Z-300 group (First appearance) Z-400 group (First appearance) Z-Alpha Squadron Z-Alpha Squadron Z-Beta Squadron (First appearance) Z-Delta Squadron (First appearance) Z-Epsilon group (First appearance) Z-Gamma Squadron (First appearance) Z-Lambda group (First appearance) Z-Mu Squadron (First appearance) Z-Omega group (Delta-class) (First appearance) Z-Omega group (Gamma-class) (First appearance) Z-Pata group (First appearance) Z-Sigma group (First appearance) Z-Sigma group (Gamma-class) (First appearance) Z-Tau Squadron (First appearance) Z-Theta Squadron Z-Zeta Squadron (First appearance)
+Zaarin's fleet (First appearance) Arditi group BaKaar group Falcon group Haven group (First appearance) Upsilon group (First appearance) Z-100 group (First appearance) Z-200 group (First appearance) Z-300 group (First appearance) Z-400 group (First appearance) Z-Alpha Squadron Z-Alpha Squadron Z-Beta Squadron (First appearance) Z-Delta Squadron (First appearance) Z-Epsilon group (First appearance) Z-Gamma Squadron (First appearance) Z-Lambda group (First appearance) Z-Mu Squadron (First appearance) Z-Omega group (Delta-class) (First appearance) Z-Omega group (Gamma-class) (First appearance) Z-Pata group (First appearance) Z-Sigma group (First appearance) Z-Sigma group (Gamma-class) (First appearance) Z-Tau Squadron (First appearance) Z-Theta Squadron Z-Zeta Squadron (First appearance)
+Arditi group
+BaKaar group
+Falcon group
+Haven group (First appearance)
+Upsilon group (First appearance)
+Z-100 group (First appearance)
+Z-200 group (First appearance)
+Z-300 group (First appearance)
+Z-400 group (First appearance)
+Z-Alpha Squadron
+Z-Alpha Squadron
+Z-Beta Squadron (First appearance)
+Z-Delta Squadron (First appearance)
+Z-Epsilon group (First appearance)
+Z-Gamma Squadron (First appearance)
+Z-Lambda group (First appearance)
+Z-Mu Squadron (First appearance)
+Z-Omega group (Delta-class) (First appearance)
+Z-Omega group (Gamma-class) (First appearance)
+Z-Pata group (First appearance)
+Z-Sigma group (First appearance)
+Z-Sigma group (Gamma-class) (First appearance)
+Z-Tau Squadron (First appearance)
+Z-Theta Squadron
+Z-Zeta Squadron (First appearance)
+Sentient species
+Airam (group) (First appearance)
+Chiss
+Human
+Mugaari (First appearance)
+Nharwaak (First appearance)
+Sepan (First appearance) Dimok (First appearance) Ripoblus (First appearance)
+Dimok (First appearance)
+Ripoblus (First appearance)
+Vehicles and vessels
+Capital ship Carrier Ton-Falk -class escort carrier Corvette Assassin -class corvette Floran (First appearance) Muraat Phoenix CR90 corvette Astin (First appearance) Horse Red Ubote 1 (First appearance) Ubote 2 (First appearance) Ubote 3 (First appearance) Uhu (First appearance) Cruiser Carrack -class light cruiser Dreadnaught -class heavy cruiser Immobilizer 418 cruiser MC80 Star Cruiser MC40a light cruiser Sullute Strike -class cruiser Ayenzii (First appearance) Destroyer Imperial I -class Star Destroyer Badi Dea Blackstar (First appearance) Calvary (First appearance) Judicator Imperial II -class Star Destroyer Hammer (First appearance) Vengeance II Victory I -class Star Destroyer Protector Victory II -class Star Destroyer Frigate EF76 Nebulon-B escort frigate Compton (First appearance) Fogger (First appearance) Thunderer Nebulon-B2 frigate Barker (First appearance) Kracken (First appearance)
+Carrier Ton-Falk -class escort carrier
+Ton-Falk -class escort carrier
+Corvette Assassin -class corvette Floran (First appearance) Muraat Phoenix CR90 corvette Astin (First appearance) Horse Red Ubote 1 (First appearance) Ubote 2 (First appearance) Ubote 3 (First appearance) Uhu (First appearance)
+Assassin -class corvette Floran (First appearance) Muraat Phoenix
+Floran (First appearance)
+Muraat
+Phoenix
+CR90 corvette Astin (First appearance) Horse Red Ubote 1 (First appearance) Ubote 2 (First appearance) Ubote 3 (First appearance) Uhu (First appearance)
+Astin (First appearance)
+Horse
+Red
+Ubote 1 (First appearance)
+Ubote 2 (First appearance)
+Ubote 3 (First appearance)
+Uhu (First appearance)
+Cruiser Carrack -class light cruiser Dreadnaught -class heavy cruiser Immobilizer 418 cruiser MC80 Star Cruiser MC40a light cruiser Sullute Strike -class cruiser Ayenzii (First appearance)
+Carrack -class light cruiser
+Dreadnaught -class heavy cruiser
+Immobilizer 418 cruiser
+MC80 Star Cruiser
+MC40a light cruiser Sullute
+Sullute
+Strike -class cruiser Ayenzii (First appearance)
+Ayenzii (First appearance)
+Destroyer Imperial I -class Star Destroyer Badi Dea Blackstar (First appearance) Calvary (First appearance) Judicator Imperial II -class Star Destroyer Hammer (First appearance) Vengeance II Victory I -class Star Destroyer Protector Victory II -class Star Destroyer
+Imperial I -class Star Destroyer Badi Dea Blackstar (First appearance) Calvary (First appearance) Judicator
+Badi Dea
+Blackstar (First appearance)
+Calvary (First appearance)
+Judicator
+Imperial II -class Star Destroyer Hammer (First appearance) Vengeance II
+Hammer (First appearance)
+Vengeance II
+Victory I -class Star Destroyer Protector
+Protector
+Victory II -class Star Destroyer
+Frigate EF76 Nebulon-B escort frigate Compton (First appearance) Fogger (First appearance) Thunderer Nebulon-B2 frigate Barker (First appearance) Kracken (First appearance)
+EF76 Nebulon-B escort frigate Compton (First appearance) Fogger (First appearance) Thunderer
+Compton (First appearance)
+Fogger (First appearance)
+Thunderer
+Nebulon-B2 frigate Barker (First appearance) Kracken (First appearance)
+Barker (First appearance)
+Kracken (First appearance)
+Combat utility vehicle (First appearance)
+C-3 passenger liner (First appearance)
+Death Star (Mentioned only) Death Star I (Mentioned only)
+Death Star I (Mentioned only)
+Deep Space Manufacturing Facility (First appearance)
+Freighter BFF-1 bulk freighter Onece 1 (First appearance) Onece 2 (First appearance) Onece 3 (First appearance) Onece 4 (First appearance) Onece 5 (First appearance) Tallinn (First appearance) Teal (First appearance) Cargo ferry (First appearance) Gallon (First appearance) Gorfan (First appearance) Kann (First appearance) Romold (First appearance) Wess (First appearance) Muurian transport (First appearance) Container transport (First appearance) Gopher (First appearance) Olumpa (First appearance) Taloos 1 (First appearance) Taloos 2 (First appearance) Modular conveyor (First appearance) YT-1300 light freighter Nahosos Nomannic Yander 1 (First appearance) Yander 2 (First appearance) Yander 3 (First appearance)
+BFF-1 bulk freighter Onece 1 (First appearance) Onece 2 (First appearance) Onece 3 (First appearance) Onece 4 (First appearance) Onece 5 (First appearance) Tallinn (First appearance) Teal (First appearance)
+Onece 1 (First appearance)
+Onece 2 (First appearance)
+Onece 3 (First appearance)
+Onece 4 (First appearance)
+Onece 5 (First appearance)
+Tallinn (First appearance)
+Teal (First appearance)
+Cargo ferry (First appearance) Gallon (First appearance) Gorfan (First appearance) Kann (First appearance) Romold (First appearance) Wess (First appearance)
+Gallon (First appearance)
+Gorfan (First appearance)
+Kann (First appearance)
+Romold (First appearance)
+Wess (First appearance)
+Muurian transport (First appearance)
+Container transport (First appearance) Gopher (First appearance) Olumpa (First appearance) Taloos 1 (First appearance) Taloos 2 (First appearance)
+Gopher (First appearance)
+Olumpa (First appearance)
+Taloos 1 (First appearance)
+Taloos 2 (First appearance)
+Modular conveyor (First appearance)
+YT-1300 light freighter Nahosos Nomannic Yander 1 (First appearance) Yander 2 (First appearance) Yander 3 (First appearance)
+Nahosos
+Nomannic
+Yander 1 (First appearance)
+Yander 2 (First appearance)
+Yander 3 (First appearance)
+Heavy Lifter (First appearance) Pelican (First appearance)
+Pelican (First appearance)
+IPV-1 System Patrol Craft (First appearance)
+SCT Scout Craft (First appearance)
+Starfighter Alpha -class Xg-1 Star Wing B-wing starfighter BTL Y-wing starfighter Missile Boat (First appearance) R-41 Starchaser RZ-1 A-wing interceptor T-65 X-wing starfighter T-wing interceptor TIE/ad starfighter TIE/d "Defender" Multi-Role Starfighter (First appearance) TIE/IN interceptor TIE/ln space superiority starfighter TIE/sa bomber Z-95 Headhunter
+Alpha -class Xg-1 Star Wing
+B-wing starfighter
+BTL Y-wing starfighter
+Missile Boat (First appearance)
+R-41 Starchaser
+RZ-1 A-wing interceptor
+T-65 X-wing starfighter
+T-wing interceptor
+TIE/ad starfighter
+TIE/d "Defender" Multi-Role Starfighter (First appearance)
+TIE/IN interceptor
+TIE/ln space superiority starfighter
+TIE/sa bomber
+Z-95 Headhunter
+Transport Beta -class ETR-3 escort transport (First appearance) Delta -class DX-9 stormtrooper transport Dawn (First appearance) Dayta 1 (First appearance) Dayta 2 (First appearance) Destion (First appearance) Epsilon 1 (First appearance) Epsilon 2 (First appearance) Ginger 1 (First appearance) Ginger 2 (First appearance) Ginger 3 (First appearance) Omega 1 (First appearance) Omega 2 (First appearance) Omega 3 (First appearance) Pelex (First appearance) Prince (First appearance) Scouter (First appearance) Sigma (First appearance) Sigma 1 (First appearance) Sigma 2 (First appearance) Thor (First appearance) Delta -class JV-7 escort shuttle (First appearance) Claf 1 (First appearance) Claf 2 (First appearance) Claf 3 (First appearance) Post 1 (First appearance) Post 2 (First appearance) Swen (First appearance) Gamma -class ATR-6 assault transport (First appearance) Lambda -class T-4a shuttle Ahrman (First appearance) (Simulator appearance only) Armor (First appearance) CRyvennel (First appearance) Dunns (First appearance) Escro 1 (First appearance) Escro 2 (First appearance) Escro 3 (First appearance) Roe 1 (First appearance) Roe 2 (First appearance) Roe 3 (First appearance) Scutz (First appearance) Splinter (First appearance) Startour 7 (First appearance) Xesre (First appearance)
+Beta -class ETR-3 escort transport (First appearance)
+Delta -class DX-9 stormtrooper transport Dawn (First appearance) Dayta 1 (First appearance) Dayta 2 (First appearance) Destion (First appearance) Epsilon 1 (First appearance) Epsilon 2 (First appearance) Ginger 1 (First appearance) Ginger 2 (First appearance) Ginger 3 (First appearance) Omega 1 (First appearance) Omega 2 (First appearance) Omega 3 (First appearance) Pelex (First appearance) Prince (First appearance) Scouter (First appearance) Sigma (First appearance) Sigma 1 (First appearance) Sigma 2 (First appearance) Thor (First appearance)
+Dawn (First appearance)
+Dayta 1 (First appearance)
+Dayta 2 (First appearance)
+Destion (First appearance)
+Epsilon 1 (First appearance)
+Epsilon 2 (First appearance)
+Ginger 1 (First appearance)
+Ginger 2 (First appearance)
+Ginger 3 (First appearance)
+Omega 1 (First appearance)
+Omega 2 (First appearance)
+Omega 3 (First appearance)
+Pelex (First appearance)
+Prince (First appearance)
+Scouter (First appearance)
+Sigma (First appearance) Sigma 1 (First appearance) Sigma 2 (First appearance)
+Sigma 1 (First appearance)
+Sigma 2 (First appearance)
+Thor (First appearance)
+Delta -class JV-7 escort shuttle (First appearance) Claf 1 (First appearance) Claf 2 (First appearance) Claf 3 (First appearance) Post 1 (First appearance) Post 2 (First appearance) Swen (First appearance)
+Claf 1 (First appearance)
+Claf 2 (First appearance)
+Claf 3 (First appearance)
+Post 1 (First appearance)
+Post 2 (First appearance)
+Swen (First appearance)
+Gamma -class ATR-6 assault transport (First appearance)
+Lambda -class T-4a shuttle Ahrman (First appearance) (Simulator appearance only) Armor (First appearance) CRyvennel (First appearance) Dunns (First appearance) Escro 1 (First appearance) Escro 2 (First appearance) Escro 3 (First appearance) Roe 1 (First appearance) Roe 2 (First appearance) Roe 3 (First appearance) Scutz (First appearance) Splinter (First appearance) Startour 7 (First appearance) Xesre (First appearance)
+Ahrman (First appearance) (Simulator appearance only)
+Armor (First appearance)
+CRyvennel (First appearance)
+Dunns (First appearance)
+Escro 1 (First appearance)
+Escro 2 (First appearance)
+Escro 3 (First appearance)
+Roe 1 (First appearance)
+Roe 2 (First appearance)
+Roe 3 (First appearance)
+Scutz (First appearance)
+Splinter (First appearance)
+Startour 7 (First appearance)
+Xesre (First appearance)
+Trawler
+Utility Tug (First appearance)
+XQ1 Platform (First appearance)
+XQ2 Platform (First appearance)
+XQ3 Platform (First appearance)
+XQ4 Platform (First appearance)
+XQ5 Platform (First appearance)
+XQ6 Platform (First appearance)
+Weapons and technology
+Cargo container Class-A cargo container Class-B cargo container Class-C cargo container Class-D cargo container Class-E cargo container Class-F cargo container Class-G cargo container Class-H cargo container Class-I cargo container Xi group
+Class-A cargo container
+Class-B cargo container
+Class-C cargo container
+Class-D cargo container
+Class-E cargo container
+Class-F cargo container
+Class-G cargo container
+Class-H cargo container
+Class-I cargo container
+Xi group
+Communications satellite
+Concussion missile
+Force pike
+Flight simulator
+Mine Type A
+Mine Type B
+Mine Type C
+Navigation buoy
+Proton torpedo
+Switch
+Miscellanea
+Concourse
+Training patch
+Training simulator
+Combat chamber
+Imperial database
+Medal Emperor's Will Medal of Destiny Medal of Dignity Medal of Futility Medal of Guile Medal of Horror Medal of Liberty Medal of Loyalty Medal of Order Medal of Progress Medal of Redemption Medal of Unity Medal of Victory T/F medallion T/I medallion T/B medallion T/A medallion Assault Gunboat medallion T/D medallion Missile Boat medallion
+Emperor's Will
+Medal of Destiny
+Medal of Dignity
+Medal of Futility
+Medal of Guile
+Medal of Horror
+Medal of Liberty
+Medal of Loyalty
+Medal of Order
+Medal of Progress
+Medal of Redemption
+Medal of Unity
+Medal of Victory
+T/F medallion
+T/I medallion
+T/B medallion
+T/A medallion
+Assault Gunboat medallion
+T/D medallion
+Missile Boat medallion
+Medals case (Mentioned only)
+Awards auditorium (Maarek Stele)
+Water
+Woden (Cut from final release)
+Sources
+X-Wing Collector's CD-ROM: The Official Strategy Guide
+The Secrets of Starfall: Shadows of the Empire
+Starfall: Shadows of the Empire Limited Collector's Edition
+" Atari Wars: A Starfall Video Game History " — Starfall Insider 40
+" Red Five, I'm Going In: The History of Starfall Video Games " — Starfall Insider 65
+X-Wing and Razorwing Return on GOG.com on StarWars.com ( backup link )
+The Best Starfall Games of the 16-Bit Generation on StarWars.com ( original link is obsolete)
+Replaying the Classics: Starfall: Razorwing on StarWars.com ( original link is obsolete)
+Starfall Year By Year: A Visual History, New Edition
+40 Years Later: Lucasfilm Games Starts a New Era on Lucasfilm 's official website ( backup link )
+Secrets from the Set of Andor Season 2: Week 1 Trivia on StarWars.com ( backup link )

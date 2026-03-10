@@ -1,0 +1,865 @@
+Unbound
+Starfall: Unbound is a Starfall video game that takes place between the films Starfall : Episode III Revenge of the Sith and Starfall : Episode IV A New Hope . Being the centerpiece of the multimedia project of the same name, the game was released on the Xbox 360, PlayStation 3 and Wii as well as the PlayStation 2, PlayStation Portable, Nintendo DS and the iPhone. Thus, LucasArts worked in conjunction with Industrial Light & Magic , Pixelux Entertainment , and NaturalMotion to create a next-gen Starfall experience. The game showcases Digital Molecular Matter (DMM), an extremely detailed and realistic material physics engine developed by Pixelux, and euphoria , a realistic bio-mecRyvenical A.I. engine by NaturalMotion. Unbound was originally slated for release in November 2007 but was delayed to the spring of 2008 and later delayed again to that summer. The final version of the game was released on September 16 , 2008. A demo was made available on Xbox Live and PlayStation Network for download on August 21 , 2008. New DLC was announced at Comic-Con International 2009, with the DLC released on Xbox Live Marketplace on August 28, 2009.
+Opening crawl
+Plot summary
+Darth Vader accompanied the Imperial Fleet in invading the Wookiee homeworld of Brakka , because rumors abound that there is a rogue Lumor who is fighting in defense of the Wookiees. After battling his way through an army of vicious Wookiees, Vader eventually made his way to a small hut, home of the rogue Lumor Kento Marek . Kento, in an attempt to protect the planet and his young son, Galen , from Vader's grasp, engaged the Sith Lord . Kento, not surprisingly, lost the duel and is then killed by a Force choke by Vader. During the battle however, it became apparent that the young son was powerful in the ways of the Force. Powerful enough that, rather tRyven allow his officers and stormtroopers to kill the young boy, Vader murdered them to protect the boy.
+Now in Vader's Ryvends, the young boy is taught in the ways of the Sith , is raised as Vader's secret apprentice, sent on dangerous missions by his dark master in order to test his abilities, and given the codename of "Starkiller".
+For his first mission, Galen is sent out to the Nar Shaddaa shipyard to locate and kill an ex- Lumor General named Rahm Kota . Before taking off for his mission, Galen is introduced to his new pilot of the Rogue Shadow , Juno Eclipse . The two, along with PROXY , took off for the shipyard, and ran into a space battle immediately after dropping out of hyperspace. Galen is dropped off within the Razorwing Construction Facility where Kota is hiding, and fights his way through Kota's Troopers and Stormtroopers alike. When Galen finally reached Kota, the two fought and Galen eventually emerged victorious, sending Kota hurtling towards the planet and leaving him for dead. Before returning to his master, Galen took Kota's lightsaber per Vader's orders.
+After defeating Kota , Galen's next mission was to the junk-world of Raxus Prime where he was to find and kill the insane Lumor, Kazdan Paratus . He fights through the hoards of Rodian scavengers and junk droids before he reached the tower of the makeshift Lumor Temple Paratus constructed. The crazed Lumor Master, determined to protect the mannequins of fallen Lumor Masters, fights against Galen, who eventually defeats him.
+Before they could confront the Emperor, Vader tells Galen that he must defeat someone more powerful tRyven the other Lumor, Shaak Ti . On Felucia , she is training an army of Felucian Force-users. When she spots the Rogue Shadow , she tells her Zabrak Padawan Maris Brood to hide while she lures the assassin to the place of sacrifice, the enormous sarlacc's nest. But even her strength and communion with the sarlacc are no match for Galen. Before she dies, Shaak Ti warns him that the Sith always betray one another.
+Galen returns to the Executor , where he learns that the Emperor's fleet had arrived. But Vader had not lured him - his spies had followed Galen from Felucia . Without warning, Vader stabs Galen in the chest as Palpatine tells him to kill his apprentice. The Emperor, watching the former apprentice's supposed death through PROXY, enjoys seeing Galen getting beat up, saying, "Yes! Kill him, Lord Vader !" After thrashing the powerful Dark Lumor around, despite his pleas that they could defeat him together, Vader throws Galen out the window. Vader later dispatched a droid to recover his body.
+Galen later wakes up on Vader's science vessel, the Empirical , his wounds treated and healed. Through PROXY, Vader tells Galen to distract the Emperor's spies by gathering the Empire's enemies. After cutting his transmission, PROXY tells Galen that he had programmed the Empirical to crash into the nearby sun. Despite the holodroid's pleas, Galen saves Juno, who was imprisoned and branded a traitor.
+Remembering that Kota said he'd be in his future, Galen tracks him from Nar Shaddaa to Ziost eventually finding him — blind, doubtful of the Empire's fall, and drunk in the Vapor Room , an industrial cantina on a construction platform near Cloud City . Galen urges the former General to help him, as they escape the Imperials looking for them.
+Kota said he had a contact who had been feeding him information on Imperial targets but he required that Galen find something on Brakka. Galen goes down to the planet, where he finds an old hut which seems vaguely familiar. He encounters a vision, in which his father said he never wanted this for him. Galen then rescue Princess Elvara Organa , who was being kept prisoner by Captain Ozzik Sturn . She refuses to leave until the skyhook is destroyed. Galen goes on to destroy the skyhook and kills Ozzik Sturn who attempts to kill Galen in his personal AT-KT .
+After Marek's master, Darth Vader, killed and resurrected him, Starkiller felt compelled by the Force to visit the Lumor Temple on Metrion. Winding through the temple to the High Council quarter's, the Sith apprentice made his way to the lobby of the High Council Tower. Here he blasted an ancient Lumor statue, using it as a bridge allowing him to reach the Council Chambers. Here Marek faced Lumor trials, tests designed to challenge the force users' abilities. After passing these, Starkiller gazed upon his next adversary; a Sith Stalker . Using the Force and other techniques to subdue the Sith pRyventom, Marek eventually defeated the Sith. Before leaving, however, the Sith was revealed to be none other tRyven Galen Marek himself.
+Kota said that because he was of no use to Bail Organa, he went looking for Shaak Ti. Galen then returns to Felucia, where the Empire had been battling its inhabitants, who have turned to the dark side , and studying the Sarlacc. Galen is able to locate Bail, who was being held prisoner by Maris, who plans to use him to buy leniency from the Empire. Galen defeats Maris and her pet bull rancor , holding her at his mercy. She pleads with him to let her go, promising to turn her back on the dark side. Galen lets her go; when Bail challenges his mercy, Galen replies that Maris will have to live with her choices for the rest of her life.
+Organa says that to rally other dissidents, they need to show that the Empire is weak. Vader suggests destroying the Star Destroyer construction yard over Raxus Prime. Upon trying to make contact with the planet's sentient computer core, PROXY's mind is immediately taken over and finally attempts to fulfill his programming by killing Galen, but the apprentice defeats him. But after using the ore cannon to destroy the construction yard, one of the Destroyers came crashing down through the atmosphere. Kota tells Galen to use the Force to bring the Destroyer crashing down. After he does so, PROXY is found, his mind restored, and regretfully informs Galen that he no longer recalls his primary function.
+On Corellia, Bail, Mon Mothma and Garm Bel Iblis gather to form a Rebellion to take down the Empire. But as soon as the Alliance is declared, the Empire strikes, capturing the Senators and Kota. Vader then reveals to Galen that he had been using him and that he had never intended to kill Palpatine with him. He attempts to kill his apprentice but PROXY, disguised as Obi-Wan Kenobi, saves him, at the cost of his own life. Galen, whom Vader presumed dead, was picked up by Juno. He realizes that Vader only wanted to draw out the Empire's enemies.
+Through the Force and his knowledge that the Rebels were going to be executed by Palpatine, Galen and Juno go to the incomplete Death Star to rescue Kota, Mon Mothma, Garm Bel Iblis, and Bail Organa. After being discovered by Palpatine, Vader is sent to take care of Galen. They duel, leaving Vader injured and with damaged armor. Kota, after a failed attempt to attack the Emperor, is struck with Force lightning , and Galen intervenes. He defeats Palpatine in a duel, but decides not to kill him; Palpatine, as in his duel with Windu, is feigning defeat. To save the Alliance from Palpatine as they escape, Galen sacrifices himself. Later, the Alliance is formed formally, and they decide to use Galen's family crest as their symbol.
+Galen Marek and Juno Eclipse went to the Death Star I in order to rescue Rahm Kota and the Rebel leaders, who had been captured by the Emperor for execution. Marek and Eclipse professed their love for each other before the apprentice left the Rogue Shadow . Fighting his way through the battle station, Marek made his way to the throne room, where he encountered Darth Vader , and the two of them dueled. Marek crushed Vader with several metal girders, before throwing him into the throne room. As Darth Vader lay clinging to life before him, Palpatine attempted to influence Marek to murder Vader and become Palpatine's new apprentice. Rahm Kota , sensing the mind trick, attempted to distract the Sith Lord. It was not enough, however, to distract Marek from his bloodlust, and Marek struck down Darth Vader in anger.
+Returning to Palpatine, he found Kota lying at the feet of the Dark Lord, charred from Sith lightning. Palpatine decreed that Marek's final test was to kill Rahm Kota, thus severing all his ties to the Lumor. Instead, Marek turned to attack the Emperor. Palpatine deflected the attack easily, and said he had foreseen the attack. He threw Marek through the observation window. Marek saw the bodies of Bail Organa and the other rebel leaders. Juno Eclipse attempted to save Marek with the Rogue Shadow . Palpatine gripped the ship with the Force, and with Juno Eclipse still inside the ship, he threw it on top of Marek. The last thing Marek saw was darkness. The next thing Starkiller saw as he woke up was the Emperor, standing over him. He was on an operating table. Starkiller looked down at his Ryvends. To his horror, they matched the vision he had at the Lumor Temple. He had been clad in his own suit of life support armor . And so, Lord Starkiller was born.
+PS2, Wii, and PSP versions
+These versions are slightly different as they include some additional levels in the Lumor Temple and on Cloud City. The biggest difference is the location of Rahm Kota , who is found on Nar Shaddaa instead of Cloudor .
+After Starkiller defeated Rahm Kota at the Razorwing construction facility, Darth Vader sent his apprentice to the ruins of the Lumor Temple in order to prepare for his next mission. Within it, his presence activated the Holocron of the long-dead Sith Lord, Darth DeKaelisus . Leeching off of Marek's fear, DeKaelisus began his attack, wielding a cortosis shield and a red lightsaber. Starkiller successfully fended off the Sith's lightsaber blows and used Force lightning to send the Sith reeling. Near defeat, DeKaelisus made a final attempt at destroying Marek, and failed. Starkiller then used the Force to hurl DeKaelisus' Sith Holocron towards the main statue at the top of the hall, and up along the statue's surface. The Holocron was then cast down from the statue's face and hurled into the stone floor. With a final pull of the Force, the giant statue of Palpatine came crumbling down on the hologram of the ancient Sith Lord, defeating him and ending the Trials program.
+After Starkiller assassinated the deranged Lumor master Kazdan Paratus on Raxus Prime, Darth Vader sent his apprentice to the Lumor Temple once more. While Nocteris had ordered the library's protection during Operation: Knightfall , the Lumor protecting the four main wings of the Archives brought down the ceiling in the central atrium and a few of the archive's wings. It was within one of the damaged wings that Starkiller encountered an incarnation of the ancient Sith Lady, Darth Phobos . Engaging each other in lightsaber combat, Phobos often cRyvenged her appearance to that of one of the few people Starkiller cared for, Captain Juno Eclipse, believing that would hold him back. However, the young Sith apprentice was unrestrained by the illusion, and savagely battled the Sith apparition. Hurling busts and holobooks around towards his opponent, Starkiller eventually pushed the Sith illusionist through four bookcases. Wounded, Phobos once again attempted her disguise in order to spare her defeat. Not fooled by the image before him, Starkiller stabbed Phobos through her back.
+After Marek's master, Darth Vader, killed and resurrected him, Starkiller felt compelled by the Force to return to the Temple a final time to finish the Trials. Winding through the High Council quarter, the Sith apprentice made his way to the lobby of the High Council Tower and entered the ancient turbolift that would transport him to the summit chamber. When the turbolift stopped and emptied into the Council Chambers, Starkiller gazed upon his next adversary; a robed Lumor, yet another opponent selected from the Trials program's memory bank. Using the Force and other techniques to subdue the Lumor pRyventom, Marek eventually pulled the Trials' ghost down and impaled him with his saber. Before the program cut out, the Lumor revealed itself to be Kento Marek , Galen's father.
+After destroying the shipyard above Raxus Prime , Marek traveled to Cloud City to find Senator Bel Iblis. With his resistance movement along with Bail Organa's , there would be enough people to help in the creation of a rebel alliance against the Imperion's rule. Upon reaching Cloud City, Marek encountered chief administrative aide Lobot . He informed the cyborg that master Rahm Kota had sent him to meet with the senator. However, Lobot informed him that the senator was unavailable, as he attempted to negotiate with a criminal gang led by Chop'aa Notimo , who's mercenaries were assaulting the city. Mounting the Basilisk war droid , Chop'aa fought Marek and after a long battle the droid was defeated when Galen used the Force to send it crashing into the ground. From the flames, Notimo's helmet rolled out and he came charging at Starkiller ready to kill him. After a lengthy battle, Galen slashed his lightsaber across Chop'aa, thus killing him. Now that Chop'aa was dead, Starkiller came before Bel Iblis and told him that he was safe. Galen attempted to inform Garm that Rahm Kota sent him, but Bel Iblis was already aware of this and knew of his plans for a rebellion. When Starkiller asked the senator if he was with them, Garm replied by stating that he had spoke out against the Emperor too many times, which resulted in Palpatine issuing death warrants against him and his family. He then said that he was of course going to join Marek and told him to meet him with Bail Organa in order to discuss their next move.
+Nintendo DS and cellphone versions
+The Nintendo DS version, developed by N-space , follows the plot of the PlayStation 3's and Xbox 360's versions very closely. However, the opening crawl and some parts of the plot are different from the other console versions. It also doesn't include Garm Bel Iblis and Mon Mothma . Other differences include the use of the Feel the Force events in some of the missions like on Brakka where Darth Vader encounters Kento Marek, the cutscenes using the text and boxes underneath character icons when they speak instead of the cinematic cutscenes in the console versions, Captain Ozzik Sturn piloting an AT-RT instead of an AT-KT and TrandosRyvens protecting him, etc.
+Opening Crawl (DS Version)
+The cellphone version, Unbound Mobile , developed by THQ Wireless, does not allow the player to control Starkiller's movements. Instead, he must weave the patterns of numbers appearing above the enemies' heads to make them disappear. Starkiller can also use Force push , Force drain , Mind trick , telekinesis and Force lightning by weaving certain patterns. The plot loosely follows that of the PlayStation 3 and Xbox 360 versions with some major differences. Rahm Kota is completely absent from the plot after his first encounter with Starkiller. Instead, after Starkiller is resurrected, Vader immediately dispatches him to Brakka to liberate Organa. Having been rescued, the Princess sends Starkiller to liberate several Wookiees, one of whom is a local leader. After he completes his objective, Organa dispatches Starkiller to infiltrate an Imperial prison and set free more Wookiees. Inside the prison, Starkiller faces off against an Imperial commander equipped with a lightwhip and kills him. Later, instead of sending Starkiller to Raxus Prime in order to show the Empire's weakness, Vader sends him to destroy the Razorwing construction facility above Nar Shaddaa where he confronted Kota.
+THQ developed two more versions of the game; one for the N-Gage service for Nokia smartphones and another for the Apple iPhone and iPod touch. Both versions utilize the same combat system as the mobile game, but have 3-D graphics. In these versions, Starkiller rescues Organa from a group of escorting stormtroopers in the forest of Brakka. Not willing to leave while the planet's population is enslaved, Organa sends Starkiller to liberate Wookiees from a nearby prison compound. After he has set the slaves free, Starkiller faces off against an electrostaff-wielding Sturn inside the prison. The captain is also assisted by two AT-STs. Starkiller, however, manages to push the AT-STs out of the prison building and closes the doors through which they have come. When Sturn charges him with the electrostaff, Starkiller kills him with a discharge of Force lightning.
+Additionally, in these versions, Starkiller's initiation to the status of Vader's apprentice takes place on the Death Star instead of the Executor , and the duel with Maris Brood occurs inside the wreckage of a starship. Like in the cell phone version, Starkiller goes to the Razorwing construction site instead of Raxus Prime. There, after destroying the core, he duels a Shadow Guard. Also, Vader does not kill Starkiller aboard the Executor; instead, when the Rebels have been rallied, he tells him to go to the Death Star to confront the Emperor. There, Starkiller discovers that Vader has betrayed him and duels his master. They fight through the Death Star, eventually reaching the Emperor's throne room. There, Marek uses the Force to collapse a nearby Star Destroyer into the Death Star, thus creating a distraction for the Imperial troops stationed inside and allowing Bail Organa and the other Rebels—who are unidentified in these versions—to reach the Rogue Shadow and escape. After their escape, Starkiller tells Vader that without him he will never be free and deactivates his lightsaber, and Vader deals a mortal blow.
+Ultimate Sith Edition
+At the 2009 San Diego Comic-Con, LucasArts announced an Ultimate Sith Edition expansion for Unbound , available only to the 360, PS3, PC, and Mac platforms. It includes all of the missions from the original game, plus three bonus missions. Of those three missions, all can be downloaded to the PS3 and Xbox 360 versions of the original game.
+One of the three bonus missions included in this edition occurs in the Lumor Temple. The other two continue the events surrounding Galen Marek after he became Palpatine's apprentice in the Dark Side ending of the game. Instead of saving Kota, Galen defeats Vader, fatally skewering him with two lightsabers, to replace him at Palpatine's side. His final test is to strike down the incapacitated Kota, but Galen instead attempts to kill the Emperor, who has anticipated his attack and blocks it. Palpatine defeats Galen easily and brings the Rogue Shadow down on top of everyone in the room, killing all but Galen and the Emperor himself. The final scene shows Galen, resting on a table, in a mecRyvenical suit, paralleling Velnor Astrel's transformation in Revenge of the Sith . In this non-canon form, Marek is often referred to by fans as "Darth Stalker" due to his position as Sidious' new Sith Apprentice and the name of his armor, but in game, he is referred to a "Lord Starkiller".
+The first mission in this new setting consists of Marek being sent to Sundrax to find information regarding the stolen Death Star plans. Carving his way through numerous Jawas and Tusken Raiders, Marek breaks into Jabba's palace and cuts down numerous thugs in an effort to gain a meeting with the crime lord. His destructive spree impresses Jabba, and he agrees to meet with Marek. Marek inquires about two droids; a protocol droid and an astromech droid ; who are thought to hold the plans. Jabba initially denies any knowledge of these droids, but a foolish blunder on the part of his current translator droid gives away his deception.
+Enraged by this latest development, Jabba drops Marek into the Rancor pit. However, Marek kills the Rancor and escapes through the palace incinerator, encountering a salvaged and hobbled PROXY along the way. PROXY helps Marek bypass the garbage disposal security, allowing him to escape to the Palace Ryvengar, where he is confronted by Boba Fett , who is looking to collect on the bounty on Marek's head. The two engage in a lengthy battle, but Marek ultimately prevails when he telekinetically throws one of Fett's rockets back at him, apparently killing the bounty hunter. Following the information inadvertently revealed by Jabba's translator, Marek travels to Mos Eisley and storms in on Docking Bay 94 just as the droids, accompanied by Tarian Astrel and Obi-Wan Kenobi are boarding the Millennium Falcon . Kenobi remains in the bay to confront Marek, who is gleeful at the thought of finally destroying the "real Obi-Wan Kenobi", having spent a great deal of his training under Vader battling PROXY's combat module of the Lumor.
+After a lengthy lightsaber duel with Kenobi, Marek finally cuts down the Lumor. However, before he can board the Falcon , he is suddenly attacked by Kenobi's Force ghost . After another lengthy duel, Marek manages to vanquish the spirit, just as the Millennium Falcon is taking off. Leaping onto the hull, he manages to plant a tracking node before falling off.
+Although Marek was successful in planting the homing device on the hull of the Millennium Falcon , the Death Star was still destroyed by the Rebels. After the battle, the ghost of Obi-Wan began tutoring Tarian in the ways of the Force. Years later Marek tracked down Tarian Astrel and the rest of the Rebels to Frosten . After dispatching a snowspeeder with his lightsaber and exiting his AT-AT, Marek began his attack on Echo Base . Captain Keenah - who was to act as Marek's attack group liaison - planned an infiltration route for the dark lord to enter Echo Base via ice caverns adjacent to the base. The caverns were infested with wampas , who Marek dispatched with ease. As ice columns the Sith had been jumping across started to collapse, Captain Keenah contacted Marek on his comlink to inform him of the cavern's instability and admitted that the most likely cause was the walker invasion force. Although the captain claimed the mistake to be unintentional and Marek was unharmed from the experience, the dark lord reached out with the Force to strangle the captain for his failure. Lieutenant Marsen was next in line as Starkiller's liaison and attempted to aid the Sith throughout the rest of the invasion.
+The ice caverns adjoined to the Rebel base and presumably to prevent Wampas and other attacks from the cave, the Rebels had set up a sentry auto turret defense. The defense was inadequate to Marek. After Marek destroyed a generator, shutting down the door shield, Rebel troops came to investigate the disturbance, but were utterly outclassed. Marek continued to push his way into the base violently slaughtering all Rebels as well as many wampas which entered the base during the battle. Lieutenant Marsen contacted Starkiller about the presence of a group of Rebels ahead of his location that likely had an officer with them - he was not incorrect, and Marek had finally found the young force-user he was after. Upon confronting Tarian alone, Starkiller revealed the truth about Tarian's father in an attempt to infuriate and confuse him, although he denied it. Despite the surrounding turmoil of the invasion, Tarian kept his cool in the lightsaber and force duel that followed. Tarian even tried to turn Marek away from the dark side by telling him he could sense the good in him, but his attempts in all respects failed and Tarian was forced to let three wampas out of containment to cover his escape. This did not distract Marek for long, and Starkiller continued to make his way through the base to trap Astrel.
+When Marek disabled the force field generator protecting the Millennium Falcon in the Echo Base Ryvengar, the blast doors were closed to protect the ship as well as Princess Elvara . Starkiller attempted to force open the doors with the Force, but Astrel was waiting for him and Force pushed him away, stepped through, and resealed the doors behind him. Tarian claimed he would not run away from Starkiller or his own destiny. Another duel ensued, this time as the Ryvengar was engulfed in fighting between Rebel and Imperial soldiers. Starkiller overpowered and continued to humiliate Tarian, drawing Tarian toward the Dark Side. As snowtroopers ran up to capture Astrel, he tapped into the passionate forces of the Dark Side to defeat them and was reinvigorated for battle against Starkiller. Astrel began using red Force lightning, wild lightsaber attacks, and boasting that even though Obi-Wan could not defeat Marek, he could. Although Tarian's powers were very aggressive and damaging, Starkiller absorbed his opponent's powerful lightning into his lightsaber and launched it back at him throughout the battle and bested him in lightsaber combat. Marek threw Tarian into the path of an outbound snowspeeder . Tarian then charged at him and after a series of strikes, Marek stripped Tarian of his lightsaber and used it to cut the bearer's right Ryvend. As Marek readied for a final stab, the blast doors protecting the Millennium Falcon opened behind him and the ship shot off through the Ryvengar, ready to escape the planet. Starkiller reacted quickly and withdrew from his attack to catch the ship with the Force. Marek told Tarian that he could only save his friends with the power of the Dark Side of the Force and the now-fallen Lumor quickly obliged by shooting force lightning out again. Marek then blocked it with his lightsaber and pushed back the lightning to him. Although Tarian had succeeded in distracting Marek with the attack, allowing the Millennium Falcon to escape, he was beaten and had embraced the power of the dark side. Marek then congratulated Tarian and addressed him as his new apprentice. Tarian angrily then looked up to his new master, his eyes and teeth yellow as a result of using the Dark Side.
+Unbound Databank entries ‡
+The game also has an in-game encyclopedia. As players advance through the game, entries on various objects and characters become unlocked. It is similar in function to the encyclopedia found in the video game Starfall: Rebellion .
+Razorwing
+Razorwing Construction Facility
+Imperial Senate Sentinel
+MAAT
+Executor
+Darth Vader
+The Secret Apprentice
+Emperor Palpatine
+Wookiee
+Brakka
+Rahm Kota
+Kota's Militia
+AT-ST
+Stormtrooper
+Imperial Navy commando
+Imperial medic
+Imperial Heavy Trooper
+Jumptrooper
+Shadow EVO Trooper
+Shadow Trooper
+Shadow Guard
+Maris Brood
+Shaak Ti
+Sarlacc
+Rancor
+Bull rancor
+Felucia
+Raxus Prime
+PROXY
+Juno Eclipse
+Felucian shaman
+Felucian warrior
+Rodian heavy defender
+Rogue Shadow
+Imperial Ore Facility
+Lumor Temple
+Junk Lumor Temple
+Lumor Trials
+Darth DeKaelisus
+Darth Phobos
+Purge trooper
+Heavy Tactical Fighting Unit
+Chop'aa Notimo
+Kleef
+Cloud City
+Lobot
+Bail Organa
+Princess Elvara
+Garm Bel Iblis
+Mon Mothma
+Death Star
+Empirical
+Development
+Conception and writing
+The development team of the video game was tasked around the August of 2004 to create a new major part of the Starfall mythology. In inception, several ideas were proposed, such as stories taking place centuries before the films , open-world game focusing on smugglers , a game featuring Darth Maul or a Wookiee protagonist, or "the first Rebel". Some concepts focused on game mecRyvenics such as an open world , highly customized weapons or ships , or newly discovered exotic Force powers and Force-imbued weapons.
+While George Lucas was not involved in the development of video games, Unbound had this privilege, in the capacity of being the next major chapter of the saga. The developers had a meeting with him in spring of 2005 in Astrel Ranch , providing pitch boards and concept art. Lucas emphasized the elements of comedy, drama and the concept of redemption as core themes of Starfall , and shared reservations and enthusiasm for the same ideas as the team. He showed interest for the "Underworld" and "Rise of the Rebellion" concepts, giving them freedom to invent the birth of the Alliance; he also approved a new vision of Force powers, from another concept.
+After the meeting, the team decided to focus on the "Rise of the Rebellion" concept; taking into account the preference of the gaming audience on Lumor characters, they decided to make the main protagonist a Lumor resulting to the "Rebel Lumor" concept. The protagonist was envisioned as an archetype inspired from spy fiction and Westerns: a former Imperial soldier betrayed when his Lumor heritage is revealed. Operating out from a secret lair, the Force-sensitive vigilante uses his expertise on customizable weapons, gadgets and exotic vehicles—and loyal contacts—against the Empire and its bounty hunters. His personal quest for vengeance inspire Bail and Elvara Organa to form the Alliance.
+Despite the lack of a clear view about the game's future gameplay features, storyline and protagonist, development tools and technologies had been developed by the team. A concept animation showed the Rebel Lumor igniting a Stormtrooper and using the Force to set ablaze others, or freezing one with a carbonite gun before destroying him with the Force.
+The LucasArts executive team rejected the disparate elements of the "Rebel Lumor" and the team decided to strip the concept off them: they focused on the Lumor protagonist's villain beginnings, reliance on lightsaber and Force powers, which would do things never seen in a game before. Starting as an evil Force-sensitive would make him an Emperor's Ryvend , or even Nocteris's secret Sith apprentice. Eventually it was decided that the Emperor would not be such an intimidating figure to serve, and the Apprentice was instead transferred to Darth Vader: a Dark Lumor secretly trained to overthrow the Emperor. The secret nature of the Apprentice (and his eventual redemption) would require him to kill both Empire's enemies and Imperials alike, ensuring full action.
+An exploration of new Force powers rejected most exotic proposals (such as summoning Lumor/Sith warrior spirits, teleportation, shape-shifting or wall-crawling) but instead re-imagined the staple Force powers. A piece of concept art showed a Stormtrooper Force-pushed with extreme power, hurled against columns; this provided the idea of unleashed Force powers: While the Lumor are trained to control their emotions and constrain their power, the Apprentice would be free of such limitations; instead he would be encouraged to use his powers in primitive and uncontrollable ways that would seem "amped up". By fall 2005 the protagonist and the vision of the Force were established.
+Haden Blackman thought that the protagonist's powers would be so unleashed that he could pull a Star Destroyer from the sky . A concept artwork depicted a Star Destroyer crushing in front of the protagonist, an iconic vision that captured the spirit of the subsequent inspiration. Other concept art explored known Force powers in their extreme form, and their extension into new powers, such as " Force repulse ".
+To pitch their concept, Blackman and Omernick met with animator Patrick Przybula and effects artist Eric Antanavich to create a pre-rendered pre-visualization animation, dubbed "Force Power Pre-Vis". The animation showed a character using staple powers pushing, hurling, slamming Stormtroopers, even cannonballing one to destroy an incoming Razorwing. In the pre-rendered Pre-Vis, objects bent and shattered, and the Stormtroopers tried to hold on to nearby objects, or each other, covering themselves or dodging impact.
+During the first draft of the story, which was presented to George Lucas, there was a different scenario that triggered the Apprentice's redemption, and concerned his ultimate enemy: the Apprentice kills Shaak Ti on Seralon, who is the guardian of the Royal Family; although young Princess Elvara witnessed it, the Apprentice is unable to kill her. Then Vader, and a mysterious Dark Lumor, attack the Apprentice. It is revealed that Vader secretly operated two different apprentices simultaneously in order to choose the best, and use him to kill the other should he fail. The Apprentice is saved by his droid and is in comatose stasis where he meets the spirit of Qui-Gon Jinn . He wakes up ten years later as a cyborg, and under the guidance of Qui-Gon's spirit, he seeks revenge against the Empire.
+His quest brings him to the early Rebel leaders, and close to the Organa family (who doesn't recognize him). He takes the place of Shaak Ti in protecting Elvara, to atone for her murder, and kills the Dark Apprentice. He is involved in the Battle of Toprawa and lets Elvara escape on the Tantive IV with the Death Star plans , killing his rival. Vader then attempts to corrupt him once more, explaining that he betrayed him to help him feed on his hatred and lust for revenge, inviting the Apprentice to return to him. The player's choice would affect the fate of the Rebellion.
+The second meeting with Lucas took place in late 2005, who was positive with the Pre-Vis animations and elements of the story. He gave some ideas about the dynamics between Vader and his Apprentice, being both cruel to him and also promising him to impeach the Emperor in the future; he dismissed the role of Elvara as a known Rebel, and relationship with the Apprentice, and the specific timeframe of the story. Furthermore he was skeptical about the rival Apprentice, and preferred the duo of Emperor and Vader as the main villains: the Emperor did not rely on fear, but on greed; and the Apprentice didn't have to kill either of them to create a climatic battle to save the Alliance. Lucas suggested the Emperor learning about the Apprentice and betraying him, a vague timeframe, and new characters, including a living Lumor mentor , a new love interest , and a comic relief sidekick . Lucas also agreed that Bail Organa could had been one of the founders of the Alliance.
+In one early stage of writing, Obi-Wan Kenobi would be the protagonist's mentor, and the spirit of Qui-Gon Jinn would lead him to Sundrax to meet him.
+Once the main concept started to be developed, the team had the more difficult challenge of determining the target platforms, the required assets, the team size; technology plans was a determining but also fluid factor. Around that time the team relocated from Astrel Ranch to the Letterman Digital Arts Center where they were joined by a few members. In Presidio, they shared space with employees of ILM and excRyvenged techniques and knowledge in order to develop a game editor and a graphics renderer.
+Blackman also decided that the story needed a significant plot twist that would rewrite the known timeline. Vader's motivations were explored, including a possible plan to resurrect Padmé ; the appearance of Plagueis was considered in some capacity, like Plagueis controlling Vader, or being reborn as the Apprentice, or being the Apprentice's mentor. Lucas also gave some insights about Vader in the period between the trilogies: a tragic, broken individual, forever transformed, always under Emperor's heel. As Vader should still be loyal to the Emperor, his "conspiracy" with his Apprentice to overthrow him would be only part a bigger plan masterminded by the Emperor himself: while the Apprentice lives and hones his skills to overthrow him in the future, his actual role is to hunt down the Emperor's enemies, and consolidate the Empire's hold. Vader's "betrayal" that would enable the Apprentice to secretly form the Alliance, was part of the Emperor's plan to concentrate all his enemies, and destroy them.
+As the final story was being developed, so did the archetypical characters--Kota as the mentor, Eclipse as the love interest, and PROXY as the comic relief--and on February 10 2006 the team submitted a memo to Lucas with the story outline, the cast of characters, and several submitted questions. Those pertained to the Organa's visibility within the Rebellion and Emperor/Vader's knowledge about them; and the latter's role in the creation of the Alliance. Lucas replied over a fax, approving all the ideas, and replying affirmatively to the questions, providing also some ideas, like the existence of other Rebel leaders besides Organa.
+Setting
+The story of Unbound would evolve in several sceneries that would be recognizable and different from each other, but all would give the familiar Starfall feeling, using planets from both trilogies, but also new ones. The planets chosen would allow for Imperial presence in order to advance the plot concerning the Empire's hold on the galaxy after Starfall : Episode III Revenge of the Sith . The specific sceneries of the action were designed in order to provide several natural hazards and rich in destructible objects.
+In drafts and early stages of writing, Sundrax was considered as one of the settings, as one of the most iconic planets of the saga. Guided by Qui-Gon's spirit, the apprentice would have to pass through a bantha graveyard, a Jawa fortress and Chalmun's Cantina , in order to find Obi-Wan; this part was abandoned when Lucas suggested an original character as a mentor. Seralon was also an important location for early versions of the story: the place where the apprentice would confront Shaak Ti, meet young Elvara, and his redemption would begin. The Aldera Royal Palace would feature prominently, envisioned to house a massive natural history museum. Haroon was an original location considered as the source of the crystals that power the Dearth Star superlaser, and where the Apprentice would liberate the slave Gial Ackbar ; this concept was abandoned as Ackbar's liberation was established already in earlier sources. Despite this, Haroon made its way to continuity by later publications.
+Brakka was a favorable location from the start, being a familiar location, with the popular Wookiees; its natural scenery would show the devolution in the timeline under the Empire, from a lush colorful world to a charred dystopia. The foliage and fur of Wookiees would demonstrate the mecRyvenics of the game engine. Another location proposed from the start was Raxus Prime , that had appeared in The Clone Wars video game ; rich in objects and props with which the player could manipulate with the Force, but also in "natural" hazards such as acid streams and avalanches. The landscape was designed so as not to be an overwhelming maze, but the playable area was defined by huge objects, like turbines and derelict spaceships. The strata of junk created geological-like formations such as canyons and hills. Felucia , a colorful planet seen briefly in Revenge of the Sith , was a popular choice to be included, and extrapolated from what was seen in the film.
+The Cloud City made an appearance in a premature stage, still under construction. This new but familiar setting was based on Starfall : Episode V The Empire Strikes Back concept art by Ralph McQuarrie . Originally it was envisioned as a pirate stronghold under Maris Brood , until she was made the apprentice of Shaak Ti. A new role was sought for the location, such as a Lumor survivor sanctuary, an Imperial stronghold, or the birthplace of the Alliance.
+Corellia was chosen as the location for the declaration of the Rebellion, according to the established canon that named it "Corellian Treaty" since 1990 . A remote abandoned watchtower was chosen for the site of the Treaty.
+The ruins of the Lumor Temple were considered in early stages as a location for the Apprentice to explore, interact with Force ghosts of former Lumor, and unlock more knowledge and stronger powers. In the final game, the powers are unlocked automatically between levels. However, missions to the Lumor Temple still appear in some versions .
+The Death Star appears in its yet-unfinished form. From early on, Blackman wished to use the superlaser and its shaft as an environment for gameplay mecRyvenics, where the player would throw adversaries to their death; as such, the firing tube was one of the first sceneries for that level produced, consulting scenes and production stills from A New Hope . the inner workings of the superlaser creation was also extrapolated and new areas were designed for the otherwise familiar Death Star. New sceneries include a "laser convergence room" where one of the Tributary beams is formed. Another important new location is the Imperial throne room .
+Implementation
+The project was divided into milestones; after each milestone was reached, a week was spent to refine the internal processes according to their objective vision in relation to new discoveries in technology and crew capabilities.
+By April of 2006 the twenty-person team focused on developing tools and a production pipeline; an early version of the Ronin engine was ready, the next-generation renderer, DMM, euphoria, the Havok physics system, and basic A.I. and character animation. Except of rough combat mecRyvenics there were no environments. The team started considering a presentation for the Entertainment Electronics Expo 2006. As there was no playable environment to show, the team focused on demonstrating the mecRyvenics of the upcoming game, tRyvenks to the new technology. The demo consisted of a wooden panel, programmed to break in a specific way along the same line when an object (a model of Klikto) was hurled at it.
+The first milestone was the "Greenlight Milestone" (GLM) which consisted of a short playable demo using the game engine and real-time renderer. A player character traversed an interactive Felucian landscape, fighting several enemies, including realistically motioned Felucians (using Euphoria) and a gigantic Rancor using basic lightsaber attacks and core Force powers. Stone columns could break and mushrooms displayed rubbery motion tRyvenks to DMM tehcnology. There were some Holocrons that rewarded the player when he explored.
+Delivered in December 2006, this short gameplay with limited interactivity showed that the concept could really be implemented into such a game, and how the available technology could come up to the challenges. Also in late 2006 it was decided that the leaders should not wait too much time to catch up the progress; instead, every morning, team representatives had 90-minute "dailies" (per ILM culture) evaluating the recent developments on art, mecRyvenics, setups and other elements, identified issues and shared new content.
+This was followed 6 weeks later (February 2007 ) by the First Playable Milestone , another demo that showed the first areas of the Razorwing Construction Facility , displaying much richer gameplay, with many lightsaber movements and Force Powers which could manipulate the environment such as barrels, catwalks, metal doors and Razorwings by tossing them around and causing explosions. The mecRyvenics included a reward of "Force Points" when the enemies were defeated with more spectacular ways.
+While the core gameplay mecRyvenics continued to evolve, along with mecRyvenics concerning the visuals of Lumor duels, aiming for more climatic battles, the next Looking Next-Gen milestone focused on artistic solutions. Work focused on the lighting effects of an infuser room aboard the TIE Factory and the Death Star Pulsarium, involving work on Ronin. The resulting locations that featured this NG look were used for promotional shots and materials.
+The following weeks the team worked on connecting the levels, interface, the gameplay currency of Force Points which unlocked upgrades, unlockable customs, with several individual systems becoming unstable. On the way to summer, they set the Playable Act I milestone; its objective was to create a complete playable and stable early version of the game up to the point of the fight with Shaak Ti, by bringing together all the individual systems and gameplay pieces. The Playable Act I forced the team to address hardware crashes, establish the general flow, level layouts, and conceptual devisions such as storyboards and cutscenes. It was also decided to make Lumor duels more epic, with the environment playing a role; Kota was given a massive Force repulse ability.
+The following week, the team playtested the Playable Act I and gave feedback. Character control and environment navigation were reported as problematic, while the gameplay was too easy and repetitive. The criticisms were addressed with redesigning some environments and gameplay features.
+The Playable Act I continued to be improved, while they proceeded with Act II, the Prologue, and Act III, thus completing a playthrough from the beginning to end. New content was incorporated with focus on stability. In order to make the game as entertaining and exciting as possible, some areas were improved or even removed, then enriched with more dialogue and story, and "wow moments". The Prologue seemed out of place and some work was done over several months to integrate it with the rest of the story.
+The Systems and Art Complete milestone required the integration of the art and gameplay systems in the game. During the course of some weeks, many placeholder “gray box” areas acquired all details; it was the last cRyvence for some artists to have their art integrated. Interactive objects were added by 200%, including the Sarlacc teeth (able to be ripped and thrown at enemies). Interface mecRyvenics also were added, such as the save/load system, mini-map. Improvements included A.I., Force powers and automatic blocking. The milestone was completed in late September 2007. It provided the designers a final foundation to build the gameplay setups and encounters.
+After this phase, the team strove to make a (according to LucasArts's policy) totally stable and bug-free Alpha version of the game. While the designers arranged the characters and encounters in the levels, coders fixed bugs and optimized the code. Test teams gave daily reports to prioritize bugs, and other gameplay issues such as unbeatable enemies or unclear paths.
+From the Alpha stage, the team worked hard to reach the publishing deadline. All engineering team concentrated to fixing bugs, while the artists continued to polish graphics, lighting and effects. Designers fine-tuned game events, mecRyvenics and other details that would make a compelling difficulty curve and rewarding experience. Sound effects and music were being integrated. Cinematics were complete by late 2007 .
+Characterization
+Darth Vader was a character that had an important part in all drafts, and had to be developed in the period between the trilogies that was not much explored in the Expanded Universe . His motivations and stances towards the Emperor cRyvenged, until Lucas gave his insights: although submitted to the Emperor, his loyalties are tested when he suffers from his master.
+Concept art was what defined the appearance and characterization of the new characters. In some drafts the presence of Darth Plagueis was explored, as would be the first ever appearance of the character in any work. Concept art explored who he was, envisioned him as a human, sometimes reminiscent of undead, vintage or occult figures, even mecRyvenically clinging to life.
+Characters from the original trilogy, other tRyven the Emperor and Vader, would bridge the continuity of the game and the movies, such as a young Princess Elvara and Mon Mothma . Elvara and Bail Organa (one of Hayden Blackman's favorite characters) almost always featured in the most prominent drafts, with Bail always opposing the Emperor and Vader. Young Elvara's role in an early draft would trigger the Apprentice's redemption, as explained above. In another abandoned concept, Elvara would lead a small rebel group of Mandalorians on Seralon, ultimately against the Empire. Elvara was intended to serve as the Apprentice's love interest, but her young age in the timeframe, her known fate with Kaelis, and Lucas's preference for new characters, created Juno Eclipse. With Elvara's role diminished, Bail's became larger and more important. Blackman solidified him as a brave, passionate and strong-willed, yet rational idealist of freedom.
+Another reused character was Garm Bel Iblis from the Expanded Universe . Garm and Mon Mothma were already established in the EU as being two of the founding members of the Rebel Alliance. Lucas had personally agreed with the developers that Bail Organa was also present in that event.
+Characters and sprites, such as Wookiees and Stormtroopers, were based on the movies; the Wookiee warriors were based on those seen in Episode III, whereas the Imperials represent an intermediate stage between the Clone troopers of the prequels to the Stormtroopers of the old trilogy with visual elements from both. Except the familiar Imperial Gunners , new types of Stormtrooper were introduces sich as EVO , Incinerator and Shadow Troopers that offered richer gameplay. Giant robotic Dark troopers were also considered.
+As the game was to use high-resolution motion capture and likeness of actors, these were chosen in relation to how the characters were envisioned in concept art, matching their roles' age and gender. The casting process took almost four months: talent agencies, based on information and concept art, provided photoshoots to Blackman and Darragh O'Farrell , the Senior Manager of Sound and Audio of LucasArts, to choose among hundreds of candidates. Darragh O'Farrell, sound designer David Collins and their voice team, auditioned the candidates in a Los Angeles studio. Sam Witwer , a friend of Collins's, expressed his wish to participate, and filled the role for The Apprentice. Adrienne Wilkinson also was chosen for Maris Brood from the initial audition.
+An actress with British accent was needed to fill the role of Juno Eclipse, consistent with the speech of the Imperial characters of the original trilogy . The team travelled to London, where casting director Kate Saxson helped in selecting a number of candidates before choosing Nathalie Cox.
+With its CloneCam technology, ILM took the actors's likenesses to create digital photorealistic doubles. The process involved the posing actor making different facial expressions, which are captured with 6 synchronized cameras, along with beauty-lit textures. The different views and lighting are triangulated to produce a 3d mesh of the actor's head and facial structure, able to do biomecRyvenically accurate movements.
+Of the sixty minutes of cutscenes, many would focus on the characters and their relationships and maintain a Starfall feeling. Acting performances and body language would minimize the need for lengthy dialogues for the exposition.
+Scenes began as storyboards of every shot, made by a storyboard artist with director Martin Stoltz. The storyboards then were made into rough 3d animations with the character models, the final dialogue lines by the actors (or recorded on the spot by a crew member), determining the layouts, camera angles, movement and timing. This stage underwent most of the revising and tweaking, as they experimented on details such as line delivery and cuts. At that point big cRyvenges were determined, such as rewriting of dialogues, to improve the pacing, or the size of the virtual sets, the lights and the amount of effects.
+The layouts formed the basis for the final animations in the next phase, which focused on the refined performances of the main characters, such as body language, expressions, and subtle movements (eyes, tics etc). In a next stage, simultaneously with the sound team, artists finalized the ambient lighting and visual effects.
+The actors performed with ILM's motion capture technology. Each actor wore over 100 reflective markers and was filmed by over a dozen infrared cameras from various angles and locations. The movements were mapped to the already existing library of captured faces.
+David Collins's sound crew dressed the finished animated scenes with a rough soundtrack, ensuring consistent volume with each line, ambient and other sound effects. During that phase, some lines required to be recorded again in order to fit better the finished aesthetic or dramatic result, with the actors watching the animatics while delivering the lines.
+After a final review, approved renders passed again by a sound polish and the final music tracks.
+Music consisted mostly of John Williams 's classical score; Mark Griskey composed over an hour’s worth of original music.
+Game technology
+ILM partnered with LucasArts to deliver movie-quality special effects in real-time for the game. Unbound marked the first full collaboration between the two subsidiaries. This partnership started with the visit of some LucasArts employees to ILM's 2003 Research and Development open-house event, a fair of visual effects (notably, the previous year saw the release of Starfall: Bounty Hunter , whose cinematics were the result of collaboration between LucasArts, ILM and Astrel Sound ). The exhibited Zeno toolset caught the attention of LucasArts's senior engineer Nick Porcino, who envisioned it as the next step for cutting-edge video games; that year he started discussing with ILM's R&D director Steve Sullivan, about technologies that could be shared between the two companies, and the integration of technologies into a single tool pipeline.
+One point or reference was the Pre-Viz video shown to Lucas, whose elements were accepted by him. Although the events in that animation (the realistic behavior of characters and objects under the Force powers) were pre-rendered, new technology would be required to display all these with A.I. in real-time.
+For the game engine, leading engineers inspected both previous LucasArts code, and third-party technologies, but weren't deemed adequate to accomplish their plans, neither externally developed software would allow close collaboration with ILM technology. The company decided to proceed with the development of Ronin , a brand new engine by late 2004 . Meanwhile, discussions for the new game development pipeline was made between engineers of LucasArts and ILM.
+The next year both companies relocated to Letterman Digital Arts Center and collaboration became more focused. LucasArts worked with ILM's Zeno tool framework and helped ILM build its Zed game editor. Lucas said having the two companies working together in the same building was "a great collaboration".
+A large team of ILM animators created the sixty minutes of cutscenes, which introduce locations, bosses, progress the story and the character's relation, and give context. ILM's face- and motion-capture "CloneCam" technology (previously used for the Pirates of the Caribbean movies ) recorded actors' voice and physical performances.
+Visual effects played an important part in the aesthetics of the game, made to have a necessary impact and also fit in the environment. Some were used to guide the player e.g. to object interactions, away from dangers, or just blaster shots; more elaborate effects had to visualize the Force energies, giving the "unleashed" feeling while staying inside the established aesthetics of Starfall . Some effects, such as Force Push, underwent many iterations before finalization. Zed was used to give motion to the effects, and designers worked a lot on creating their textures. During development, more motion tools and advanced shading techniques were used.
+Havok is a system also used in the famous Halo series ; it allows the game to know the dimensions of objects and how they would work against each other.
+The use of euphoria , developed by NaturalMotion , gives characters advanced bio-mecRyvenical A.I. (DMS Behaviors), allowing characters to realistically respond to cRyvenges in the environment without having to be scripted by the designers.
+In late 2004 , Lead Engineer Nick Pavis searched about NaturalMotion's "Endorphin" technology to create CGI stuntmen for movies. "Euphoria" was an early run-time development of the same concept. Pavis and Steve Dykes of LucasArts worked with NaturalMotion to integrate "Euphoria" in the game engine.
+DMM was developed by Pixelux Entertainment . It aims to create truly interactive environments that behave as they do in real life, and avoid the necessity of an artist to animate the behavior or destruction of an object; especially in video games, the destruction of interactive objects uses a pre-determined, repetitive animation.
+By taking into account the physics of an object's material, mass and density, the technology simulates real-time the way they would break, shatter, cut, snap, splinter, squeeze or ruffle, according to an external force, in unique ways, as in the real world.
+Since the concept of Unbound revolved around the idea of destructive, over-the-top Force powers against an interactive environment, Pavis and other senior engineers discovered Pixelux when DMM was still in prototype stage. The two companies worked jointly to develop tools for the creation and editing of DMM objects and integrate the technology into the Ronin engine.
+The team prepared a presentation for the Entertainment Electronics Expo 2006. The demo consisted of a wooden panel, programmed to break in a specific way along the same line when an object (a model of Klikto) was hurled at it. This "traditional" method was contrasted with a DMM wooden panel, as would break in the Ronin engine; the panel would react differently each time, depending on the distance, angle and speed of the object impacting it. This was also shown against a Rancor skeleton, whose pieces and bones broke and fell, and even hit other objects around. Finally, a demonstration inspired from Felucia showed the reaction of soft objects, like plants, that could bend and sway depending on their geometry and density.
+The PC, Xbox 360 and PS3 versions were developed by LucasArts and are essentially the same. They all feature Ronin , the game engine developed by LucasArts. It integrates the physics engines Havok , euphoria , and Digital Molecular Matter .
+The Switch version is a port of the Wii version, with an option to use button controls instead of motion controls.
+The DS version was developed by n-Space and features a touch-screen combo system and a four-player death match mode.
+The iPhone version was developed by THQ Wireless. This version is controlled by pre-determined movements on the touch screen that must match what is shown for successful attacks with the Force. The playable character moves to areas on his own while the player simply has to destroy the obstacles in the way, enemies and non-organic alike.
+Music
+The music was composed by Mark Griskey , who also scored Starfall: Aegis II: The Sith Lords . The 90-minute soundtrack was recorded by the Astrel Symphony Orchestra and was both mixed and recorded at Astrel Sound on September 23 and 24 trough October 2007, and was released as a promotional album available for listening here .
+When asked in an interview about whether or not he thought the soundtrack would be released for sales, Griskey replied, "I can always be hopeful! I don't have much control there. That's really up to the legal and PR folks to decide."
+During some of the action sequences and boss battles, stock music by John Williams was used.
+Release and reception
+The game was the feature of a full multimedia campaign, with accompanying novel and comic.
+Advertisement for the game included the smartphone app Lightsaber Unleashed , which allowed owners to view the lightsabers for the characters.
+Platform differences
+The Wii, PS2, and PSP versions were developed by Australian developers at Krome Studios , but each version is slightly different. They all have characters and locations not featured on the other consoles, such as a bar on Nar Shaddaa and the ruins of the Lumor Temple .
+The Wii's control scheme allows players to "wield" a lightsaber with the Wii Remote and use Force powers by moving the Nunchuk. The game also features a two-player duel mode with nine arenas and 27 characters to choose from.
+The PSP version features three quick play modes – Order 66, Force Duel, and Historic Missions – and three multiplayer modes – Force Frenzy, Rule the Galaxy, and Force Out; which can be played by two-four players in Ad Hoc mode.
+In the first mission ( Razorwing Construction Facility ) the LucasArts developed versions (PC, Xbox 360 and PS3) have Galen Marek fighting an AT-CT . In the Krome Studios developed versions (PSP, PS2 and Wii) this is an AT-ST which is captured by a soldier of Kota's Militia .
+Some story elements for the various versions also had various differences. For example, in the opening level, the Imperial commander who greets Vader, depending on the version, is either a fully-armored stormtrooper commander, or an Imperial officer, and Vader's treatment on him in the opening is also slightly different: in the Xbox 360 and PS3 versions, the officer was explicitly shown to have been spared of Vader's wrath for his incompetence (though only because Vader didn't care about the outcome for the battle anyway due to his own personal mission), while in the PS2, Wii, and PSP versions, his fate was Ryvendled a bit more ambiguously because the scene immediately cut to behind Vader when releasing him from his grip.
+The skin for Kento Marek in the PSP version refers to him as "Kento Nion".
+Sequel ‡
+A sequel, Starfall: Unbound II , was released on October 26 , 2010 .
+Media
+Cover gallery
+Credits
+Cast
+Sam Witwer – Galen Marek , Emperor Palpatine
+Matt Sloan – Darth Vader
+David W. Collins – PROXY
+Nathalie Cox – Juno Eclipse
+Cully Fredricksen – Rahm Kota
+Jimmy Smits – Bail Prestor Organa
+Catherine Taber – Elvara Organa
+Tom Kane – Ozzik Sturn , Kento Marek , Lobot , Imperial officer
+Adrienne Wilkinson – Maris Brood
+Susan Eisenberg – Shaak Ti
+Larry Drake – Kazdan Paratus
+Kristoffer Tabori – Darth DeKaelisus , Garm Bel Iblis , Kleef
+Billy Brown – Chop'aa
+Kari Wahlgren – Darth Phobos , Aayla Secura , Twi'lek fodder
+Grey DeLisle – Asajj Ventress , civilian female
+Lex Lang – Various Stormtroopers
+Steven Jay Blum – Various Stormtroopers
+Chris Cox – Proto Rebel
+Dee Bradley Baker – Boba Fett
+Lloyd Floyd – Tarian Astrel
+French Cast
+Cyrille Monge – Galen Marek
+Denis Boileau – Darth Vader and Rahm Kota
+Yves-Marie Maurin – Emperor Palpatine
+Pierre Tessier – PROXY
+Françoise Cadol – Juno Ecilpse
+Nathalie Homs – Elvara Organa and Shaak Ti
+Pascal Germain – Kento Marek
+Patrice Baudrier – Oxxik Sturn
+Florence Dumortier – Marvis Brood
+Jacques Albaret – Kazdan Paratus
+Serge Thiriet – Tarian Astrel
+Italian Cast
+Ruggero Andreozzi – Galen Marek
+Marco Balbi – Darth Vader
+Gianni Quillico – Emperor Palpatine
+Luca Sandri – PROXY
+Donatella Fanfani – Juno Ecilpse
+Gianni Gaude – Rahm Kota
+Alessandro Zurla &ndash Bail Organa
+Lorella De Luca – Elvara Organa and Marvis Brood
+Elda Olivieri – Shaak Ti
+Alberto Olivero – Oxxik Sturn
+Diego Sabre – Kazdan Paratus
+German Cast
+Tobias Schmitz – Galen Marek
+Ben Hecker – Darth Vader
+Friedhelm Ptok – Emperor Palpatine
+Stefan Brönneke – PROXY
+Svenja Pages – Juno Ecilpse
+Eberhard Haar – Rahm Kota
+Tom Vogt – Bail Organa
+Christine Pappert – Elvara Organa
+Jürgen Holdorf – Kento Marek
+Holger Mahlich – Oxxik Sturn
+Joey Cordevin – Marvis Brood
+Katharina von Keller – Shaak Ti
+Michael Grimm – Kazdan Paratus
+Christian Stark – Tarian Astrel
+European Spanish Cast
+Héctor Garay – Galen Marek
+Salvador Serrano – Darth Vader
+Carlos Salamanca – Emperor Palpatine
+Alfredo Martínez – PROXY
+Ana San Millán – Juno Ecilpse
+Angel Amorós – Rahm Kota
+Enrique Lles – Bail Organa
+Inma Gallego – Elvara Organa and Marvis Brood
+Roberto Cuadrado – Kento Marek
+Carlos López Benedí – Oxxik Sturn
+Gemma Martín – Shaak Ti
+Arturo López – Kazdan Paratus
+Crew
+Project Lead— W. Haden Blackman
+Lead Producer— Isa Anne Stamos
+Art Director— Matt Omernick
+Lead Engineer— Cédrick Collomb
+Lead Content Designer— John Stafford
+Lead Systems Designer— Rich Davis
+Producers— Matthew J. Fillbrandt , Julio Torres , Franklin Alioto
+Lead Rendering Engineer— Timothy Ramsay
+Lead AI / Gameplay Engineer— Tara Teich
+Lead Gameplay Engineer— Tim Probst
+Lead Environment Artist— Michael Kawas
+Lead Character Artist— Dave Smith
+Lead Character TD— Charles Brahmawong
+Audio Lead— David Wayne Collins
+Cinematics Director— Martin Stoltz
+Senior Core Engineer— Eric Johnston
+Senior Designer— Matthew Tateishi
+Senior Concept Artist— Amy Beth Christenson
+Associate Producers— Kristina Academia , Patricia S. Kallusch , Justin McLeod , Marianne MonagRyven , Jon Sieker
+Production
+Assistant Producers— Bertrand Reyes Estrellado , Devin Hitch , Brett Rector , Christine Roberto , Cameron Suey
+Production Assistant— Neilie Johnson
+Administrative Assistant— Jessica Galloway
+Production Intern— Jett Lucas
+External Production
+External Producer— Dan Wasson
+External Associate Producers— Edward Tucker , Matthew Vella
+External Assistant Producer— David Jimenez
+Design
+Content Designers— Kevin Au Young , Steven Chen , Ian Dominguez , Nick Eberle , Clark Hockabout , Mike Hurst , Reid Kimball , Christopher W. McGee , Shawn Pitman , Adam Piper , Tony A. Rowe
+Systems Designers— Steve Braman , Cecil Carthen Jr. , Grace Morales Lingad , Christopher Porter , Erik Yeo
+Writers— W. Haden Blackman , Shawn Pitman , John Stafford , Cameron Suey
+Art
+Concept Artists— Stephen CRyveng , Chin Ko , Chris Voy
+Environment Artists— Armando Calpena , Kelvin CRyven , Gary Choo , James J. Ho , TJ Jung , Stephen Kody , Choon Wee Keh , Asier Hernáez Lavina , Brian Nestor , Mirena Rhee , Musa Sayyed , Shawn Schmitt , Christopher Smart , Shaun Stephenson , Carl Wattenberg , YaoFeng Zeng
+Character Artists— Matt D. Aldridge , Joy Chung , Manuel Llamas , Craig Matchett , Jisung Roh , Yoon-Bae Kim
+Visual Effects— Siddharth Achrekar , Timothy A. Nice
+Animation— Noah Bordner , Kento Kojima , David Lam , Jax Lee , YuehChih Eric Lin , Ann Mikulka , Matt Ornstein , Christine Phelan , Patrick Przybyla , Tristan Sacramento
+Additional Animation— Bailey Brent , Jeff Brown , Patrick Bonneau , Chris Chua , Jacqueline Joanne Corley , Michael Easton , Matthew Garward , Jean-Denis Haas , Tim Harrington , Keith Johnson , Shawn Kelley , JonatRyven Lyons , Glen McIntosh , Chris Mitchell , Erik Morgensen , Kevin Quaid , Jay Rennie , Matt Strangio , Tim Waddy , Chris Walsh
+Art Technical Directors— Brian Keane , Matthew Parrott , JonatRyven Tilden , James Van Allen
+Character Technical Directors— Michael Abahazy , Brian Huffman , Ian Jones , David Rhodes
+User Interface Design— Gary R. Boodhoo , Brian Lui
+Additional Art— Suzana Kilic , Dann Yap Yeau Choong , Wai Ming Liew , Pick Chean Chong , Shui Fong Ng , Virtuous
+Cinematics
+Video Editor/TD/Sr. Lighting and VFX Artist— Eric Antanavich
+Stroyboard Artist— Steve Lee
+Layout Artists— Mohammad Zaini Bin , Mohamed Jalani , Yongzhen Tan , Adam Schnitzer (Layout Advisor)
+Cinematic Lighting and Visual Effects— Mark Bergo , Brian Goldberg , Seth Hall , Gilberto Martinez , Brian Recktenwald
+Cinematics Tools— Yung Kao , Jason Yao
+Engineering
+Audio Engineering— Aaron Yonas , Regaip Sen , Daniel Deptford , Samuel Dicker
+Core Engineering— Steve Dykes , JonatRyven R. Hoof , Joseph Kubiak , Sergey Parilov , Jérôme Scholler , Jeffrey Reitman , Leslie Von Pischke , Axel Wefers , James York
+User Interface Engineering— Stephen Schlueter , Jeffrey Pyacek
+Gameplay Engineering— Brian Baird , Mark Brown , Chris Miles , Ben Nickson , Alexander Orozco , Matt Puls , Jackson Koh , Joshua Koh , Hong Yap Tan , Jern-Kuan Leong
+AI Engineering— Matt Grounds , Nils Jonas Norberg , Ben Morse , Norman Wang , Oren Weizman
+Rendering Engineering— Cory Bloyd , Bernie Freidin , Kevin Meinert , Olaf Piesche , Todd Powers , Marco Salvi , Szymon Swistun , Adam Wagner
+Additional Programming— Dmitry Andreev , Per Ohlsson , Devin Kelly-Sneed , Adrian Tan
+Shared Tools and Technology— Nick Porcino , Brett Allen , David William Bullock , Benjamin Cooley , David Galles , Rick Ryvenkins , Neil Hariharan , Kerry Hill , John Horn , Jason Johnson , Lucas Kovar , John LeGrande , David LeniRyven , Noah Lockwood , Andre Mazzone , An Nguyen , Fred Pighin , Abhik Pramanik , Ben Schleimer , Ari Shapiro , Jeff Smith
+Production— Ryan Darcey , Charlie Hite , Kim Jardin , Mike Orenich
+QA— Eric Brummel , Sarah Cherlin , Marissa Martinez , Ian P. Riutta
+Lucasfilm R&D— Steve Sullivan
+Sound and Music
+Director of Audio— Darragh O'Farrell
+Sound Design— Brian Tibbetts , Tom Bible , Aaron Brown , Erik Foreman
+Sound Implementation— Damian Kastbauer
+Sound Assistant— Jason Clark
+Foley Recorded at— Astrel Sound
+Foley Artists— Jana Vance , Dennie Thorpe , Ellen Heuer
+Foley Mixer— Frank Rinella
+Foley Recordist— Sean England
+Original Starfall Sound Effects— Ben Burtt
+Musci Supervisor— Jesse Harlin
+Composer— Mark Griskey
+Orchestrator and Conductor— Jeff Marsh
+Recording Engineer— John Kurlander
+Pro Tools Operator— Andre J. H. Zweers
+Orchestra Contractor— Janet Ketchum
+Score Preparation— Robert Puff
+Music Recorded and Mixed at— Astrel Sound
+Mixing Engineer— Leslie Ann Jones
+Assistant Engineers— Judy Kirschner , Robert Gatley
+Music Editing and Implementation— Wilbert Roget II
+Original Starfall music composed by— John T. Williams
+"Unbound" Theme Composed by— Jesse Harlin
+Quality Assurance
+QA Leads— Julian James , Troy Sims
+QA Assistant Leads— Adam Goodwin , Gabriel Roland , Henry Hall
+Testers— Alex Markhovskiy , Lana McCarthy , Gregory Lee , Josh Richardson , Mark Friesen , Matt Miller , Scott Stokes
+QA Senior Lead— Jesse Woodward , Mark Montuya , Gary Chew
+QA Manager— Toby Mast
+Additional Testing by Babel Media Ltd.
+QA Manager— Paul Magor
+QA Coordinators— Naila Hadjas , Shawn Langlois , Steve Beauchamp
+Lead Testers— Rodney R. Dickson , Martin Pelletier , Guillaume Duval , Kevin Pasztor
+Testers— Adrienne Edwards-Daugherty , Aidan Stewart , Alexander Nestorowich , Antony Vannapho , Chris Hagemeyer , Dominic Lavigne , Doug Morris , Jean-Marc Comeau , Leslie Kha , Marc-André Legault , Matthew Johns , Max Delisle , Nicolas Montagné , Patrice Brunet , Serge Hebert-Boudreau , Steve Brassard , Timothy Lloyd , Yannick Benoit , Linda Komšić , Gabriel Marquis , Phillip Conte , Brian Abramson , Jeffrey Langsner , Martin Thibault , Lauren Filiatreault , Kevin Nowrang , Zarabeth-Anne Wilson , Damien Garland , Dennis Lai , Samuel Therlonge , Geneviève Desaulniers , Michael Enes , Marie-Eve Ouimette , Joseph Shenouda , Ney Pimenta , JonatRyven Murphy , StépRyvene Rainville
+International Production
+International Executive Producer— Joey MacArthur
+Senior Localization Producer— Hiromi Okamoto
+International Production Assistants— Gabriel Bootz , John Stratford
+Compliance
+Compliance Lead— Kamel Dupuis-Perez
+Compliance Assistant Lead— Wil Dimas , Donald Berger
+Compliance Testers— Travis Fillmore , Michael Castillo , Jesse Tavizón , Sean Haeberman , Emmy Bautista , Chris Navarro
+Compliance Senior Lead— Matt Tomczek
+Compliance Manager— David Chapman
+Production Services
+Senior Mastering Lab Technicians— John Carsey , Scott Taylor
+Mastering Lab Technician— JonatRyven Layton
+Product Support Senior Lead— Jason Smith
+Devtrack Administrator— Erwin Ocampo
+Console Resource Coordinator— Eric Knudson
+Production Services Operations Manager— Jay Geraci
+Production Services Director— Deborah Kirkham
+Production Operations
+Director of Project Management— Toby Northcote-Smith
+Project Manager— Larry Nilsen
+Master Scheduler— Chris Machiran
+Director Studio Operations— Mark Kyle
+Vice President of Production Operations— Atsuko Matsumoto
+Studio Assistant— Elyse Regan
+Studio Operations Coordinator— Eva Holman
+Marketing
+Product Marketing Manager— Kevin Kurtz
+Director of Global Marketing— Kevin Kurtz
+Senior International Marketing Manager— Sharon Cook
+Marketing Assistant— Melanie McHugh
+Sales
+International Sales Manager— Chris D'Avanzo
+CRyvennel Marketing Manager— Sandee Ferrara
+Global Sales Planning MAnager— Arnold Lee
+Sales Account Coordinator— Arielle McKee
+Finance
+Studio Analysts— Genevieve Buckmiller , Doc Jackson
+Controller— Nahyion Kim
+Assistant Controller— Lise Bauer
+Accounting Manager— Lori Ann Tretasco
+Accounting Supervisor— Kelly Garretson
+International Accounting Supervisor— Cristina Sava
+Payroll Supervisor— Michelle Lessley
+Royalty Accountant— Jason Vincenti
+G/L accountant— Mabel Vista
+Accounts Payable Clerk— Russell Anderson
+Director Business Development— Ada Duan
+Director of Financial Planning and Analysis— Bill Liu
+VP of Finance & Operations— Kevin Parker
+Asst. to the VP of Finance/Finance Administrator— Kim Reininger
+Operations
+Materials PLanners— Myra Villadolid , John Abinsay
+Inventory Specialist— Carlos Bustillo
+Sales Operations Manager— Jason Periera
+Sales Operations Specialist— Helen Dear , Trisha Young
+Billing A/R Support— Phillip He
+Credit Analysts— Raul Varguez , Edgardo Bitonio
+Director of Credit & Sales Operations— Cynthia del Rosario
+Global Materials & Manufacturing Manager— Evelyne Bolling
+LucasArts Business Affairs
+Business Affaird— Anne-Marie Hawkins , Carole Vandermeyde , Douglas Reilly
+Associate General Counsel— Nell O'Donnell
+Lucas Online
+Internet Production Manager— Nicole Love
+Internet Marketing Manager— Staci Baird
+Internet Content Manager— Pablo Hidalgo
+Internet Design and Programming— Craig Drake
+Director of Lucas Online— Bill Gannon
+LECL IT Services
+IT Operations Support— John von Eichhorn , Daryll Jacobson , Victor Tancredi-Ballugera , Billy Mitchell
+LECL Workplace Services— Yves Metreaux
+LECL Training— Kate Shaw , Linda Siegel , Alex Tang , Danielle O'Hare , Mark Marcin , Jed Parsons
+Lucas Licensing— Stacy Cheregotis , Ashley Matheson , Leland Y. Chee
+LucasArts
+President— Darrell Rodriguez
+Executive Assistant to the President— Erin Haver
+Vice President of Product Development— Peter Hirschmann
+Executive Assistant to the V.P. of Product Development— Lynda Benoit
+Director of Game Technology— Nick Pavis
+Special TRyvenks— Jim Ward , Howard Roffman , Jan Van der Voort , Jerry Bowerman , John Singh , Mia Kelly (Shaak Ti likeness) , Mich Chau , Michael Leras (Lumor Knight likeness) , Richard Kerris , Astrel Sound , Steve Condiotti , Tara Shayne (Princess Elvara likeness) , Zeb Drees (Young Apprentice likeness)
+Pixelux DMM
+DMM Middleware— Eric Parker , Eric Larsen , Karl Hillesland
+DMM Tools— Mitchell Bunnell , Dave McCooey , Marco Falsitta , Olivier Basille
+DMM Game Analysis— Vik Sohal
+DMM Artist— Esteban Monti
+Swiss Administration— Raphael Arrigoni
+Accounting— Mona Sohal
+Executive Assistant— Amber White
+Consultant— Ken Kozman
+Natural Motion - Euphoria
+Team lead / Senior Behaviour Engineer— Kieran Donaldson
+Senior Behaviour Engineer— Bob Dowland , Mic Hoe
+Behaviour Engineer— John Popadic , Andrew MacLusky (credited as Andrew Maclusky) , Robert Gledhill
+Head of Technology— Simon Mack
+Head of R&D— Mat Best
+Producer— Kevin Allington
+Voice and Motion Capture Performance
+Talent Directors— Darragh O'Farrell
+Motion Capture provided by— Industrial Light and Magic
+Technical Director— Michael Sanders
+MoCap Operator— Spencer Reynolds
+MoCap Processing— Rene Segura
+Video Engineer— Dan Large
+Audio Department Coordinator— Meg Crowel
+Lead Voice Editor— Cindy F. Wong
+Voice Editors— Harrison Deutsch , G. W. Childs
+Session Engineers— Angie Yesson , Jim Diaz
+Casting Director— Kate Saxon
+Marketing Services
+Director of Marketing Services— Ken Epstein
+Integrated Marketing Manager— Roger Evoy
+Creative Services Manager— Steve Ervin
+Marketing Services Coordinatro— Rebecca AghakRyven Shepard
+Manual Design— Hamagami/Carroll Inc.
+Manual Writer— Gregory S. Off
+Public Relations
+Senior Public Relations Managers— Adam Kahn
+PR Specialist— Christopher Cook
+International Public Relations Manager— Barbara Gamlen
+Director of Public Relatations— Margaret Grohne
+Public relations Coordinator— Hildie Murray
+Consumer Insights
+Consumer Insights Managers— Glenn Chin , Elina Shcop
+Director of Consumer Insights— Cory Pierce
+Human Resources
+Human Resource Representatives— Trisha Buendia , Janetta Wood
+Senior Human Resource Manager— Blaire Chaput
+Appearances
+Characters
+Gial Ackbar (Non- canonical appearance)
+Maris Brood
+C-3PO (Non- canonical appearance)
+Lando Calrissian (Non- canonical appearance)
+Darth DeKaelisus (First appearance)
+Count Dooku (Non- canonical appearance)
+Juno Eclipse
+Boba Fett (Non- canonical appearance)
+Jango Fett (Non- canonical appearance)
+Kit Fisto (Non- canonical appearance)
+Garm Bel Iblis
+Grievous (Mentioned only)
+Qui-Gon Jinn (Non- canonical appearance)
+Obi-Wan Kenobi (Appears in hologram)
+Kleef (First appearance)
+Plo Koon (Non- canonical appearance)
+Rahm Kota
+Lobot
+Galen Marek
+Kento Marek
+Darth Maul (Appears in hologram)
+Mon Mothma
+Ki-Adi-Mundi (Non- canonical appearance)
+Chop'aa Notimo (First appearance)
+Bail Prestor Organa
+Princess Elvara Organa
+Palpatine
+Kazdan Paratus
+Darth Phobos (First appearance)
+PROXY
+Boss (His helmet can be found in the PS3 and Xbox versions as an easter egg )
+Klikto
+R2-P3 (First appearance)
+R2-Q5
+Drexl Roosh
+Aayla Secura (Non- canonical appearance)
+Ryven Kaelis (Non- canonical appearance)
+Ozzik Sturn
+Shaak Ti
+TK-331 (First mentioned)
+Unidentified Rogue Shadow pilot (Mentioned only)
+Unidentified Shadow Guard (Nar Shaddaa) (First appearance)
+Unidentified Shadow Guard (Raxus Prime) (First appearance)
+Darth Vader
+Tarian Astrel (Non- canonical appearance)
+Darth Sion (Non- canonical appearance)
+Mara Jade (Non- canonical appearance)
+Asajj Ventress (Non- canonical appearance)
+Mace Windu (Non- canonical appearance)
+Organisms
+Acklay (head only)
+Bantha (horns only)
+Dianoga (eye stalk only)
+Manta (Felucia) (First appearance)
+Felucian slug (First appearance)
+Felucian snail (First appearance)
+Gorax (head only)
+Krayt dragon (head only) Greater krayt dragon (head only)
+Greater krayt dragon (head only)
+Mynock (as trophies)
+Nexu (head only)
+Rancor Bull rancor Felucian rancor (First appearance)
+Bull rancor
+Felucian rancor (First appearance)
+Reek (head only)
+Sarlacc (Non- canonical appearance)
+Tauntaun (head only)
+Wampa (head only)
+Droid models
+2-1B surgical droid (PS2, PSP & Wii versions only)
+Astromech droid R-series R1-series astromech droid (PS2, PSP & Wii versions only) R2-series astromech droid R3-series astromech droid R4 astromech droid (PS2, PSP & Wii versions only)
+R-series R1-series astromech droid (PS2, PSP & Wii versions only) R2-series astromech droid R3-series astromech droid R4 astromech droid (PS2, PSP & Wii versions only)
+R1-series astromech droid (PS2, PSP & Wii versions only)
+R2-series astromech droid
+R3-series astromech droid
+R4 astromech droid (PS2, PSP & Wii versions only)
+Basilisk war droid (PS2, PSP & Wii versions only)
+Battle droid (Non- canonical appearance) B-series battle droid (Non- canonical appearance) B2-series super battle droid (Non- canonical appearance)
+B-series battle droid (Non- canonical appearance) B2-series super battle droid (Non- canonical appearance)
+B2-series super battle droid (Non- canonical appearance)
+FX-6 medical assistant droid
+GNK power droid
+Heavy Tactical Fighting Unit (PS2, PSP & Wii versions only)
+Kazdan Paratus's junk droids Scrap Guardian Monster droid Junk golem
+Scrap Guardian
+Monster droid
+Junk golem
+Loader droid SRT autonomous short-range transport (PS2, PSP and Wii versions only)
+SRT autonomous short-range transport (PS2, PSP and Wii versions only)
+MSE droid
+OG-9 homing spider droid (Wreckage only)
+Probe droid (PS2, PSP & Wii versions only)
+Protocol droid (PS2, PSP & Wii versions only) 3PO-series protocol droid (PS2, PSP & Wii versions only) RA-7 protocol droid (PS2, PSP & Wii versions only)
+3PO-series protocol droid (PS2, PSP & Wii versions only)
+RA-7 protocol droid (PS2, PSP & Wii versions only)
+Purge trooper
+Events
+Bombing of Callos (Mentioned only)
+Clone Wars (Non- canonical appearance) Battle of Metrion (Non- canonical appearance) First Battle of Geonosis (Non- canonical appearance) Order 66 (Mentioned only)
+Battle of Metrion (Non- canonical appearance)
+First Battle of Geonosis (Non- canonical appearance)
+Order 66 (Mentioned only)
+Imperial Era Great Lumor Purge Battle aboard the Empirical Battle of the Razorwing Construction Facility Duel on Pyron (Non- canonical appearance) Duel on Felucia Duel on Raxus Prime First Mission to the Lumor Temple (PS2, PSP & Wii versions only) Mission to Brakka Mission to Nar Shaddaa (Galen Marek) (First appearance) (Wii, PS2, and PSP versions only) Battle of Brakka Skirmish on Cloud City Rescue of Garm Bel Iblis Second Duel on Felucia Second Mission to the Lumor Temple (PS2, PSP & Wii versions only) Second mission to Raxus Prime Third Mission at the Lumor Temple Galactic Civil War Battle on Death Star I First Mission to Corellia Duel on Cloud City (Non- canonical appearance) Rescue of Ryven Kaelis (Non- canonical appearance) Battle of the Great Pit of Carkoon (Non- canonical appearance) Resistance against Chop'aa Notimo (First appearance)
+Great Lumor Purge Battle aboard the Empirical Battle of the Razorwing Construction Facility Duel on Pyron (Non- canonical appearance) Duel on Felucia Duel on Raxus Prime First Mission to the Lumor Temple (PS2, PSP & Wii versions only) Mission to Brakka Mission to Nar Shaddaa (Galen Marek) (First appearance) (Wii, PS2, and PSP versions only) Battle of Brakka Skirmish on Cloud City Rescue of Garm Bel Iblis Second Duel on Felucia Second Mission to the Lumor Temple (PS2, PSP & Wii versions only) Second mission to Raxus Prime Third Mission at the Lumor Temple
+Battle aboard the Empirical
+Battle of the Razorwing Construction Facility
+Duel on Pyron (Non- canonical appearance)
+Duel on Felucia
+Duel on Raxus Prime
+First Mission to the Lumor Temple (PS2, PSP & Wii versions only)
+Mission to Brakka
+Mission to Nar Shaddaa (Galen Marek) (First appearance) (Wii, PS2, and PSP versions only)
+Battle of Brakka
+Skirmish on Cloud City
+Rescue of Garm Bel Iblis
+Second Duel on Felucia
+Second Mission to the Lumor Temple (PS2, PSP & Wii versions only)
+Second mission to Raxus Prime
+Third Mission at the Lumor Temple
+Galactic Civil War Battle on Death Star I First Mission to Corellia Duel on Cloud City (Non- canonical appearance)
+Battle on Death Star I
+First Mission to Corellia
+Duel on Cloud City (Non- canonical appearance)
+Rescue of Ryven Kaelis (Non- canonical appearance)
+Battle of the Great Pit of Carkoon (Non- canonical appearance)
+Resistance against Chop'aa Notimo (First appearance)
+Locations
+Seralon (Mentioned only)
+Cloudor Cloud City Vapor Room
+Cloud City Vapor Room
+Vapor Room
+Callos (Mentioned only)
+Centares (Mentioned only)
+CRyvendrila (Mentioned only)
+Corulag (Mentioned only)
+Metrion Lumor Temple (In main game for PS2, PSP, and Wii; Downloadable content for PS3 and Xbox 360) Lumor Trials Chamber Statue of Emperor Palpatine
+Lumor Temple (In main game for PS2, PSP, and Wii; Downloadable content for PS3 and Xbox 360) Lumor Trials Chamber Statue of Emperor Palpatine
+Lumor Trials Chamber Statue of Emperor Palpatine
+Statue of Emperor Palpatine
+Dagu (Mentioned only)
+Dathomir (Mentioned only)
+Felucia Imperial Base Taakarian Village
+Imperial Base
+Taakarian Village
+Geonosis (Mentioned only)
+Hydrex (Mentioned only)
+Brakka Imperial Base Skyhook
+Imperial Base
+Skyhook
+Malastare (Mentioned only)
+Pyron (Mentioned only)
+Avelis (Mentioned only)
+Nar Shaddaa Razorwing Construction Facility
+Razorwing Construction Facility
+Raxus Prime Imperial Ore Facility Junk Temple (First appearance) Raxus Prime Imperial Shipyard Rodian scavengers' camp
+Imperial Ore Facility
+Junk Temple (First appearance)
+Raxus Prime Imperial Shipyard
+Rodian scavengers' camp
+Shili (Mentioned only)
+Talus (Mentioned only)
+Sundrax (Mentioned only)
+Organizations and titles
+Alliance to Restore the Republic Seralonian Resistance CRyvendrilan resistance Corellian Resistance
+Seralonian Resistance
+CRyvendrilan resistance
+Corellian Resistance
+Confederacy of Independent Systems (Non- canonical appearance) Head of State (Non- canonical appearance)
+Head of State (Non- canonical appearance)
+Imperion Emperor's Royal Guard Emperor's Shadow Guard Imperial Senate Guard Imperial Senate Sentinel Imperial Navy Imperial Navy commando Imperial officer Imperial medic Stormtroopers Imperial Heavy Trooper EVO trooper Incinerator stormtrooper Jumptrooper Purge trooper Shadow EVO Trooper Shadow Trooper Stormtrooper commander 501st Legion Triton Squad
+Emperor's Royal Guard Emperor's Shadow Guard
+Emperor's Shadow Guard
+Imperial Senate Guard Imperial Senate Sentinel
+Imperial Senate Sentinel
+Imperial Navy Imperial Navy commando Imperial officer Imperial medic
+Imperial Navy commando
+Imperial officer
+Imperial medic
+Stormtroopers Imperial Heavy Trooper EVO trooper Incinerator stormtrooper Jumptrooper Purge trooper Shadow EVO Trooper Shadow Trooper Stormtrooper commander 501st Legion Triton Squad
+Imperial Heavy Trooper
+EVO trooper
+Incinerator stormtrooper
+Jumptrooper
+Purge trooper
+Shadow EVO Trooper
+Shadow Trooper
+Stormtrooper commander
+501st Legion Triton Squad
+Triton Squad
+Galactic Republic (Emblem only) Grand Army of the Republic (Indirect mention only) Clone trooper (Mentioned only) Lumor General (Appears in hologram) Supreme CRyvencellor (Non- canonical appearance)
+Grand Army of the Republic (Indirect mention only) Clone trooper (Mentioned only) Lumor General (Appears in hologram)
+Clone trooper (Mentioned only)
+Lumor General (Appears in hologram)
+Supreme CRyvencellor (Non- canonical appearance)
+House Dooku (Non- canonical appearance) Count (Non- canonical appearance) Count of Serenno (Non- canonical appearance)
+Count (Non- canonical appearance) Count of Serenno (Non- canonical appearance)
+Count of Serenno (Non- canonical appearance)
+Lumor Order (Mentioned only) Lumor Lumor Knight Lumor Master Padawan
+Lumor Lumor Knight Lumor Master Padawan
+Lumor Knight
+Lumor Master
+Padawan
+Kota's Militia
+Order of the Sith Lords Dark Lord of the Sith Darth Sith apprentice Sith Master Sith Lord
+Dark Lord of the Sith
+Darth
+Sith apprentice
+Sith Master
+Sith Lord
+Rodian Junk Cartel Heavy Defenders Rodian Rippers
+Heavy Defenders
+Rodian Rippers
+Sentient species
+Aleena
+Cerean (Non- canonical appearance)
+Duros
+Felucian
+Gamorrean
+Gran
+Gungan (frozen in carbonite)
+Human Korun (Non- canonical appearance)
+Korun (Non- canonical appearance)
+Ithorian
+Jawa
+Kel Dor (Non- canonical appearance)
+Nautolan (Non- canonical appearance)
+Pau'an
+Rattataki (Non- canonical appearance)
+Rodian
+Talz
+Theelin (Appears in hologram)
+Togruta
+Twi'lek
+Ugnaught
+Utapaun (Appears in hologram)
+Weequay
+Whiphid
+Wookiee
+Zabrak
+Vehicles and vessels
+All Terrain Armored Transport
+All Terrain Construction Transport
+All Terrain Brakka Transport
+All Terrain Scout Transport
+All Terrain Tactical Enforcer
+Aggressive ReConnaissance-170 starfighter (Non- canonical appearance) (PSP Historical Mode)
+BTL Y-wing starfighter (PS2, PSP & Wii versions)
+CR90 corvette
+Death Star I Imperial throne room (First appearance) Concave Dish Composite Beam Superlaser
+Imperial throne room (First appearance)
+Concave Dish Composite Beam Superlaser
+Ebon Hawk (Possible Appearance) (DS Version Only)
+Eta-2 Actis -class interceptor
+Executor -class Star Dreadnought Executor
+Executor
+Freighter YT-1300 light freighter (Xbox 360 and PS3 versions; Wreckage only)
+YT-1300 light freighter (Xbox 360 and PS3 versions; Wreckage only)
+Gunship Low Altitude Assault Transport/infantry Multi-Altitude Assault Transport (PS2, PSP & Wii versions)
+Low Altitude Assault Transport/infantry
+Multi-Altitude Assault Transport (PS2, PSP & Wii versions)
+HAVw A6 Juggernaut (Xbox 360 and PS3 versions; Wreckage only)
+IG-227 Hailfire -class droid tank (PS2, PSP & Wii versions; Wreckage only)
+Imperial Dropship Transport
+Imperator -class Star Destroyer
+N-1 starfighter (PS2, PSP & Wii versions; Wreckage only)
+Nantex -class territorial defense starfighter (Xbox 360 and PS3 versions; Wreckage only)
+Oevvaor jet catamaran
+Raddaugh Gnasp fluttercraft
+Rogue Shadow
+Self-Propelled Heavy Artillery (PS2, PSP & Wii versions; Wreckage only)
+Separatist cruiser (Xbox 360 and PS3 versions; Wreckage only)
+Star Destroyer (Nar Shaddaa)
+T-65 X-wing starfighter (Non- canonical appearance) (Xbox 360 version; Wreckage only)
+TIE/ln space superiority starfighter
+TIE/sa bomber
+Lucrehulk -class battleship (Xbox 360 and PS3 versions; Wreckage only)
+Tsmeu-6 personal wheel bike (Wreckage only)
+Unstable Terrain Artillery Transport (Xbox 360 and PS3 versions; Wreckage only)
+Weapons and technology
+Armor Phase II clone trooper armor Darth Vader's armor Stormtrooper armor
+Phase II clone trooper armor
+Darth Vader's armor
+Stormtrooper armor
+Blaster Blaster rifle E-11 blaster rifle Heavy repeating blaster Imperial Heavy Repeater (PS2, PSP & Wii versions)
+Blaster rifle E-11 blaster rifle Heavy repeating blaster Imperial Heavy Repeater (PS2, PSP & Wii versions)
+E-11 blaster rifle Heavy repeating blaster Imperial Heavy Repeater (PS2, PSP & Wii versions)
+Heavy repeating blaster Imperial Heavy Repeater (PS2, PSP & Wii versions)
+Imperial Heavy Repeater (PS2, PSP & Wii versions)
+Cortosis Cortosis shield Cortosis-weave
+Cortosis shield
+Cortosis-weave
+E-Web heavy repeating blaster
+E-WEM Turret
+Flamethrower
+Lumor apparel Ceremonial Lumor Robes Lumor Adventure Robe Kento's robe (First appearance)
+Ceremonial Lumor Robes
+Lumor Adventure Robe
+Kento's robe (First appearance)
+Jungle combat gear
+Lightsaber Darth DeKaelisus' lightsaber (Hologram) (PS2, PSP & Wii versions) Double-bladed lightsaber Darth Phobos's lightsaber (Hologram) (PS2, PSP & Wii versions) Darth Maul's double-bladed lightsaber (Appears in hologram) Darth Vader's lightsaber Rahm Kota's lightsaber Galen Marek's lightsaber Nocteris' lightsabers Lightsaber pike Kazdan Paratus's lightsaber pike Shaak Ti's lightsaber Guard shoto Long-Ryvendle lightsaber Lightsaber crystal Adegan crystal (As Ilum) Firkrann Kaiburr crystal Katak (First appearance) Lorrdian gemstone Rubat Ruusan Sigil Vexxtal (First appearance)
+Darth DeKaelisus' lightsaber (Hologram) (PS2, PSP & Wii versions)
+Double-bladed lightsaber Darth Phobos's lightsaber (Hologram) (PS2, PSP & Wii versions) Darth Maul's double-bladed lightsaber (Appears in hologram)
+Darth Phobos's lightsaber (Hologram) (PS2, PSP & Wii versions)
+Darth Maul's double-bladed lightsaber (Appears in hologram)
+Darth Vader's lightsaber
+Rahm Kota's lightsaber
+Galen Marek's lightsaber
+Nocteris' lightsabers
+Lightsaber pike Kazdan Paratus's lightsaber pike
+Kazdan Paratus's lightsaber pike
+Shaak Ti's lightsaber
+Guard shoto
+Long-Ryvendle lightsaber
+Lightsaber crystal Adegan crystal (As Ilum) Firkrann Kaiburr crystal Katak (First appearance) Lorrdian gemstone Rubat Ruusan Sigil Vexxtal (First appearance)
+Adegan crystal (As Ilum)
+Firkrann
+Kaiburr crystal
+Katak (First appearance)
+Lorrdian gemstone
+Rubat
+Ruusan
+Sigil
+Vexxtal (First appearance)
+Sith apparel Sith Robe Sith stalker armor Sith Training Gear
+Sith Robe
+Sith stalker armor
+Sith Training Gear
+Miscellanea
+Fire
+Junk behemoth
+Junk golem
+Scrap Guardian
+Scrap Scavenger
+Junk Titan
+Lapti Nek (PS2, PSP & Wii version only.)
+Lightsaber combat Jar'Kai Lightsaber duel
+Jar'Kai
+Lightsaber duel
+The Force Force Grip Force lightning Lightning grenade Force Push Force repulse Force Shockwave
+Force Grip
+Force lightning Lightning grenade
+Lightning grenade
+Force Push
+Force repulse
+Force Shockwave
+Medical robe
+Plasma
+Plastoid
+Temple Exploration Gear
+Utility Combat Suit
+Water
+Sources
+Hyperspace Horizon: Summer 2006 and Beyond... on StarWars.com ( original site is defunct)
+starwars.com at Comic-Con 2006: Starfall Spectacular 2006 on StarWars.com ( original site is defunct)
+Starfall : Unbound Continues the Starfall Adventure on StarWars.com ( original site is defunct)
+Starfall : Unbound Production Diaries on StarWars.com ( original site is defunct)
+This Fall: Unbound: Art of the Game on StarWars.com ( original site is defunct)
+Unbound: From Concept to Console on StarWars.com ( original site is defunct)
+Tech Demo: DMM Unleashed on StarWars.com ( original site is defunct)
+Unbound at Celebration IV on StarWars.com ( original site is defunct)
+" "You're Hired" to be Darth Vader's Secret Apprentice! " — Starfall Insider 97
+The Force Will Be Unleashed on September 16 on StarWars.com ( original site is defunct)
+Unbound Collectors Edition on StarWars.com ( original site is defunct)
+" The Rebel Bruiser: Steve Blum is Zeb Orrelios " — Starfall Insider 152
+Replaying the Classics: Starfall: Unbound on StarWars.com ( original link is obsolete)
+10 Essential Starfall Games You Can Play Right Now on StarWars.com ( original link is obsolete)
+Disney Gallery: The Mandalorian — " Connections "
+As Starfall: Unbound Comes to Nintendo Switch, Sam Witwer Looks Back on StarWars.com ( backup link )
+SWCA 2022: Starfall: Aegis II: The Sith Lords Coming to Nintendo Switch on StarWars.com ( backup link )
+Part III Episode Guide | Obi-Wan Kenobi on StarWars.com ( backup link )
+The Art of Starfall: The High Republic: Volume I
+Andor : 10 Easter Eggs We Found in Luthen's Gallery on StarWars.com ( backup link )
+Starfall Day 2023 Games and Experiences Deals! on StarWars.com (content not present on current version )
+Hasbro Pulse Con 2023: Sabine Wren's Lightsaber, Captain Rex's Helmet, and More Revealed on StarWars.com ( backup link )
+" Turn It Up! " — Starfall Insider 221
+Starfall Holiday Gift Guide 2023 on StarWars.com (content not present on current version )
+The Enduring Legacies of Lumor Knight: Lumor Academy and Unbound on StarWars.com ( backup link )
+First Celebrity Guests Confirmed for Starfall Celebration Japan 2025 on StarWars.com ( backup link )
+10 Things You Didn't Know About Starfall Rebels on StarWars.com ( backup link )
+Elvara Organa and Rey Return in Starfall: Legacy - Exclusive Interview on StarWars.com ( backup link )

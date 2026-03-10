@@ -1,0 +1,13 @@
+**/.DS_Store
+.idea
+/bak/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Torch / caches
+.cache/
+*.dll
