@@ -1,1 +1,0 @@
-# reverdp-architecture-pro-quantumforge
